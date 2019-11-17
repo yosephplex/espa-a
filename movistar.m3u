@@ -1,221 +1,869 @@
 #EXTM3U
-#EXTINF:-1,|ES| TOROS TV
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/31.ts
-#EXTINF:-1,|ES| M TOROS TV HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/32.ts
-#EXTINF:-1,|ES| M GOLF HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/30.ts
-#EXTINF:-1,|ES| M MOTOGP
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/29.ts
-#EXTINF:-1,|ES| M FORMULA 1 FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/27.ts
-#EXTINF:-1,|ES| M FORMULA 1
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/28.ts
-#EXTINF:-1,|ES| M EUROSPORT 1 FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/24.ts
-#EXTINF:-1,|ES| M EUROSPORT 1
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/25.ts
-#EXTINF:-1,|ES| EUROSPORT 2
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/26.ts
-#EXTINF:-1,|ES| M REAL MADRID TV
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/22.ts
-#EXTINF:-1,|ES| M BARCA TV
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/23.ts
-#EXTINF:-1,|ES| GOL TV
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/21.ts
-#EXTINF:-1,|ES| #VAMOS FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/5.ts
-#EXTINF:-1,|ES| #VAMOS
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/6.ts
-#EXTINF:-1,|ES| M DEPORTES FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/4.ts
-#EXTINF:-1,|ES| M TELEDEPORTE
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/3.ts
-#EXTINF:-1,|ES| MOVISTAR LIGA DE CAMPEONES HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/2.ts
-#EXTINF:-1,|ES|C.ESTRELLAS
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/1.ts
-#EXTINF:-1,|ES| LA 2 FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/1585.ts
-#EXTINF:-1,|ES| VIAJAR HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/139.ts
-#EXTINF:-1,|ES| TV3 CATALUNYA
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/52.ts
-#EXTINF:-1,|ES| TV GALICIA
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/50.ts
-#EXTINF:-1,|ES| TELECINCO HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/45.ts
-#EXTINF:-1,|ES| TELECINCO FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/44.ts
-#EXTINF:-1,|ES| TELECINCO
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/46.ts
-#EXTINF:-1,|ES| ODISEA
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/129.ts
-#EXTINF:-1,|ES| NICKELODEON HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/147.ts
-#EXTINF:-1,|ES| NICKELODEON ESP HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/148.ts
-#EXTINF:-1,|ES| NICK JR
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/149.ts
-#EXTINF:-1,|ES| NATGEOWILD HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/131.ts
-#EXTINF:-1,|ES| NATGEOGRAPHIC HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/130.ts
-#EXTINF:-1,|ES| NAT GEO WILD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/132.ts
-#EXTINF:-1,|ES| MEGA TV HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/123.ts
-#EXTINF:-1,|ES| M VIAJAR
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/140.ts
-#EXTINF:-1,|ES| M TNT FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/75.ts
-#EXTINF:-1,|ES| M TELENOVELAS
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/118.ts
-#EXTINF:-1,|ES| M TCM FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/74.ts
-#EXTINF:-1,|ES| M SYFY FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/114.ts
-#EXTINF:-1,|ES| M SYFY
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/115.ts
-#EXTINF:-1,|ES| M SUNDANCE HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/71.ts
-#EXTINF:-1,|ES| M SERIESMANIA HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/101.ts
-#EXTINF:-1,|ES| M SERIES
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/100.ts
-#EXTINF:-1,|ES| M PARAMOUNT
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/70.ts
-#EXTINF:-1,|ES| M NOVA
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/116.ts
-#EXTINF:-1,|ES| M NEOX
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/125.ts
-#EXTINF:-1,|ES| M MTV ESPANA
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/155.ts
-#EXTINF:-1,|ES| M LEVANTE Tv
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/54.ts
-#EXTINF:-1,|ES| M HOLLYWOOD FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/63.ts
-#EXTINF:-1,|ES| M HOLLYWOOD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/64.ts
-#EXTINF:-1,|ES| M FOX LIFE FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/108.ts
-#EXTINF:-1,|ES| M FAMA 24H FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/124.ts
-#EXTINF:-1,|ES| M ESTRENOS FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/58.ts
-#EXTINF:-1,|ES| M ESTRENOS
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/59.ts
-#EXTINF:-1,|ES| M ENERGY
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/121.ts
-#EXTINF:-1,|ES| M DRAMA FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/72.ts
-#EXTINF:-1,|ES| M DECASA
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/126.ts
-#EXTINF:-1,|ES| M COSMO FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/67.ts
-#EXTINF:-1,|ES| M COMEDY CENTRAL FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/102.ts
-#EXTINF:-1,|ES| M COMEDIA HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/68.ts
-#EXTINF:-1,|ES| M Comedia
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/69.ts
-#EXTINF:-1,|ES| M CLASSICA
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/154.ts
-#EXTINF:-1,|ES| M CINEDOC&ROLL HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/60.ts
-#EXTINF:-1,|ES| M CINE N
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/73.ts
-#EXTINF:-1,|ES| M CALLE13
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/120.ts
-#EXTINF:-1,|ES| M CALLE 13 FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/119.ts
-#EXTINF:-1,|ES| M AXN WHITE FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/112.ts
-#EXTINF:-1,|ES| M AXN WHITE
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/113.ts
-#EXTINF:-1,|ES| M AXN FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/110.ts
-#EXTINF:-1,|ES| M AXN
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/111.ts
-#EXTINF:-1,|ES| M AMC FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/65.ts
-#EXTINF:-1,|ES| M AMC
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/66.ts
-#EXTINF:-1,|ES| M ACCION FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/61.ts
-#EXTINF:-1,|ES| M ACCION
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/62.ts
-#EXTINF:-1,|ES| M #0 FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/98.ts
-#EXTINF:-1,|ES| M #0
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/99.ts
-#EXTINF:-1,|ES| LA SEXTA HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/48.ts
-#EXTINF:-1,|ES| LA SEXTA FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/47.ts
-#EXTINF:-1,|ES| LA SEXTA
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/49.ts
-#EXTINF:-1,|ES| IBERALIA TV
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/138.ts
-#EXTINF:-1,|ES| HISTORIA
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/135.ts
-#EXTINF:-1,|ES| FOXNEWS
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/57.ts
-#EXTINF:-1,|ES| FOX LIFE
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/109.ts
-#EXTINF:-1,|ES| FOX HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/106.ts
-#EXTINF:-1,|ES| FOX
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/107.ts
-#EXTINF:-1,|ES| FDF
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/104.ts
-#EXTINF:-1,|ES| DIVINITY
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/117.ts
-#EXTINF:-1,|ES| DISNEY JR
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/146.ts
-#EXTINF:-1,|ES| DISNEY ESP XD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/145.ts
-#EXTINF:-1,|ES| DISNEY CHANNEL HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/143.ts
-#EXTINF:-1,|ES| DISNEY CHANNEL
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/144.ts
-#EXTINF:-1,|ES| DISCOVERY CI
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/133.ts
-#EXTINF:-1,|ES| DISCOVERY CHANNEL HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/134.ts
-#EXTINF:-1,|ES| CUATRO HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/42.ts
-#EXTINF:-1,|ES| CUATRO FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/41.ts
-#EXTINF:-1,|ES| CUATRO
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/43.ts
-#EXTINF:-1,|ES| COMEDYCENTRAL
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/103.ts
-#EXTINF:-1,|ES| CAZA Y PESCA HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/137.ts
-#EXTINF:-1,|ES| BLAZE
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/136.ts
-#EXTINF:-1,|ES| BE MAD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/122.ts
-#EXTINF:-1,|ES| BABY ESP
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/152.ts
-#EXTINF:-1,|ES| ARAGON TV
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/53.ts
-#EXTINF:-1,|ES| ANTENA3
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/40.ts
-#EXTINF:-1,|ES| ANTENA 3 HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/39.ts
-#EXTINF:-1,|ES| ANTENA 3 FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/38.ts
-#EXTINF:-1,|ES| A3SERIES
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/105.ts
-#EXTINF:-1,|ES| LA2
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/37.ts
-#EXTINF:-1,|ES| LA 1 FHD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/33.ts
-#EXTINF:-1,|ES| LA 1 HD
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/34.ts
-#EXTINF:-1,|ES| LA1
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/35.ts
-#EXTINF:-1,|ES| CLAN TVE
-http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/36.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3 SERIES SD" tvg-logo="http://www.ictv19.xyz/logo/A3Series.png" group-title="Cine",A3 SERIES SD
+http://ictv19.xyz:8000/rob/123/22158
+#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="http://www.ictv19.xyz/logo/amc.jpg" group-title="Cine",AMC SD
+http://ictv19.xyz:8000/rob/123/22153
+#EXTINF:-1 tvg-id="" tvg-name="AMC SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/amc.jpg" group-title="Cine",AMC SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22154
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="http://www.ictv19.xyz/logo/axn%20...jpg" group-title="Cine",AXN SD
+http://ictv19.xyz:8000/rob/123/22155
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/axn%20...jpg" group-title="Cine",AXN SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22156
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD (opc 3)" tvg-logo="http://www.ictv19.xyz/logo/axn%20...jpg" group-title="Cine",AXN SD (opc 3)
+http://ictv19.xyz:8000/rob/123/22157
+#EXTINF:-1 tvg-id="" tvg-name="CANAL FOX SD" tvg-logo="http://www.ictv19.xyz/logo/FOX..png" group-title="Cine",CANAL FOX SD
+http://ictv19.xyz:8000/rob/123/22159
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL SD" tvg-logo="http://www.ictv19.xyz/logo/cinecanal.jpg" group-title="Cine",CINECANAL SD
+http://ictv19.xyz:8000/rob/123/22160
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/cinecanal.jpg" group-title="Cine",CINECANAL SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22161
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL SD (opc 3)" tvg-logo="http://www.ictv19.xyz/logo/cinecanal.jpg" group-title="Cine",CINECANAL SD (opc 3)
+http://ictv19.xyz:8000/rob/123/22162
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX SD" tvg-logo="http://www.ictv19.xyz/logo/Cinemax.png" group-title="Cine",CINEMAX SD
+http://ictv19.xyz:8000/rob/123/22164
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/Cinemax.png" group-title="Cine",CINEMAX SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22165
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA SD" tvg-logo="http://www.ictv19.xyz/logo/DEPELICULA.png" group-title="Cine",DE PELICULA SD
+http://ictv19.xyz:8000/rob/123/22167
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/DEPELICULA.png" group-title="Cine",DE PELICULA SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22168
+#EXTINF:-1 tvg-id="" tvg-name="EXTREMA TV HD" tvg-logo="http://ictv19.xyz/logo/extrema.jpg" group-title="Cine",EXTREMA TV HD
+http://ictv19.xyz:8000/rob/123/10785
+#EXTINF:-1 tvg-id="" tvg-name="FOX SD" tvg-logo="http://www.ictv19.xyz/logo/FOX..png" group-title="Cine",FOX SD
+http://ictv19.xyz:8000/rob/123/22182
+#EXTINF:-1 tvg-id="" tvg-name="FOX SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/FOX..png" group-title="Cine",FOX SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22183
+#EXTINF:-1 tvg-id="" tvg-name="FOX CHANNEL SD" tvg-logo="https://entel.cl/public/logos/canales/fox-channel.png" group-title="Cine",FOX CHANNEL SD
+http://ictv19.xyz:8000/rob/123/22177
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM ACTION SD" tvg-logo="http://www.ictv19.xyz/logo/FOXPremiumAction.png" group-title="Cine",FOX PREMIUM ACTION SD
+http://ictv19.xyz:8000/rob/123/22171
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM ACTION SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/FOXPremiumAction.png" group-title="Cine",FOX PREMIUM ACTION SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22172
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM ACTION SD (opc 3)" tvg-logo="http://www.ictv19.xyz/logo/FOXPremiumAction.png" group-title="Cine",FOX PREMIUM ACTION SD (opc 3)
+http://ictv19.xyz:8000/rob/123/22173
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM CINEMA SD" tvg-logo="http://www.ictv19.xyz/logo/FOX-CINEMA-HD.png" group-title="Cine",FOX PREMIUM CINEMA SD
+http://ictv19.xyz:8000/rob/123/22174
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM CINEMA SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/FOX-CINEMA-HD.png" group-title="Cine",FOX PREMIUM CINEMA SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22175
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM CINEMA (opc 3)" tvg-logo="http://www.ictv19.xyz/logo/FOX-CINEMA-HD.png" group-title="Cine",FOX PREMIUM CINEMA (opc 3)
+http://ictv19.xyz:8000/rob/123/22176
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM CLASSICS SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-classics_m.png" group-title="Cine",FOX PREMIUM CLASSICS SD
+http://ictv19.xyz:8000/rob/123/22178
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM CLASSICS SD (opc 2)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-classics_m.png" group-title="Cine",FOX PREMIUM CLASSICS SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22179
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM COMEDY SD" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-comedy-hd_m.png" group-title="Cine",FOX PREMIUM COMEDY SD
+http://ictv19.xyz:8000/rob/123/22180
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM MOVIES SD" tvg-logo="http://ictv19.xyz/logo/FoxPremiumMovies.jpg" group-title="Cine",FOX PREMIUM MOVIES SD
+http://ictv19.xyz:8000/rob/123/22185
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM MOVIES SD (opc 2)" tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Cine",FOX PREMIUM MOVIES SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22186
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM SERIES SD" tvg-logo="http://ictv19.xyz/logo/FoxPremiumSeries.png" group-title="Cine",FOX PREMIUM SERIES SD
+http://ictv19.xyz:8000/rob/123/22170
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM SERIES SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/FOXSERIES.jpg" group-title="Cine",FOX PREMIUM SERIES SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22189
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM SERIES SD (opc 3)" tvg-logo="http://www.ictv19.xyz/logo/FOXSERIES.jpg" group-title="Cine",FOX PREMIUM SERIES SD (opc 3)
+http://ictv19.xyz:8000/rob/123/22187
+#EXTINF:-1 tvg-id="" tvg-name="FX MOVIES SD" tvg-logo="http://www.ictv19.xyz/logo/FX.jpg" group-title="Cine",FX MOVIES SD
+http://ictv19.xyz:8000/rob/123/22193
+#EXTINF:-1 tvg-id="" tvg-name="FX SD" tvg-logo="http://www.ictv19.xyz/logo/FX.jpg" group-title="Cine",FX SD
+http://ictv19.xyz:8000/rob/123/22190
+#EXTINF:-1 tvg-id="" tvg-name="FX SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/FX.jpg" group-title="Cine",FX SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22191
+#EXTINF:-1 tvg-id="" tvg-name="FX SD (opc 3)" tvg-logo="http://www.ictv19.xyz/logo/FX.jpg" group-title="Cine",FX SD (opc 3)
+http://ictv19.xyz:8000/rob/123/22192
+#EXTINF:-1 tvg-id="" tvg-name="FXM SD" tvg-logo="http://www.ictv19.xyz/logo/FXM.png" group-title="Cine",FXM SD
+http://ictv19.xyz:8000/rob/123/22194
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ SD" tvg-logo="http://www.jomyson.com/logo/Glitz.png" group-title="Cine",GLITZ SD
+http://ictv19.xyz:8000/rob/123/22195
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ SD (opc 2)" tvg-logo="http://www.jomyson.com/logo/Glitz.png" group-title="Cine",GLITZ SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22196
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ SD (opc 3)" tvg-logo="http://www.jomyson.com/logo/Glitz.png" group-title="Cine",GLITZ SD (opc 3)
+http://ictv19.xyz:8000/rob/123/22197
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN SD" tvg-logo="http://www.ictv19.xyz/logo/GOLDEN.png" group-title="Cine",GOLDEN SD
+http://ictv19.xyz:8000/rob/123/22198
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN SD (opc 2)" tvg-logo="http://ictv19.xyz/logo/GOLDEN.png" group-title="Cine",GOLDEN SD (opc 2)
+http://ictv19.xyz:8000/rob/123/456
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN HD" tvg-logo="http://www.ictv19.xyz/logo/GOLDEN.png" group-title="Cine",GOLDEN HD
+http://ictv19.xyz:8000/rob/123/22202
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE SD" tvg-logo="http://www.ictv19.xyz/logo/GoldenEdge.jpg" group-title="Cine",GOLDEN EDGE SD
+http://ictv19.xyz:8000/rob/123/22199
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/GoldenEdge.jpg" group-title="Cine",GOLDEN EDGE SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22200
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE SD (opc 3)" tvg-logo="http://www.ictv19.xyz/logo/GoldenEdge.jpg" group-title="Cine",GOLDEN EDGE SD (opc 3)
+http://ictv19.xyz:8000/rob/123/22201
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS FHD" tvg-logo="http://www.jomyson.com/logo/goldenPlus.png" group-title="Cine",GOLDEN PLUS FHD
+http://ictv19.xyz:8000/rob/123/22203
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="http://www.ictv19.xyz/logo/HBO.png" group-title="Cine",HBO SD
+http://ictv19.xyz:8000/rob/123/22206
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SD" tvg-logo="http://www.ictv19.xyz/logo/HBO2.jpg" group-title="Cine",HBO 2 SD
+http://ictv19.xyz:8000/rob/123/22207
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY SD" tvg-logo="http://www.ictv19.xyz/logo/HBO-family.png" group-title="Cine",HBO FAMILY SD
+http://ictv19.xyz:8000/rob/123/22208
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS SD" tvg-logo="http://www.ictv19.xyz/logo/HBOPlus.png" group-title="Cine",HBO PLUS SD
+http://ictv19.xyz:8000/rob/123/22209
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE SD" tvg-logo="http://www.ictv19.xyz/logo/HBO-signature.png" group-title="Cine",HBO SIGNATURE SD
+http://ictv19.xyz:8000/rob/123/22210
+#EXTINF:-1 tvg-id="" tvg-name="I.SAT SD" tvg-logo="http://www.ictv19.xyz/logo/ISAT.jpg" group-title="Cine",I.SAT SD
+http://ictv19.xyz:8000/rob/123/22205
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME SD" tvg-logo="http://www.ictv19.xyz/logo/MAXPRIME.png" group-title="Cine",MAX PRIME SD
+http://ictv19.xyz:8000/rob/123/22211
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME Este SD" tvg-logo="http://www.ictv19.xyz/logo/MAXPRIME-ESTE.png" group-title="Cine",MAX PRIME Este SD
+http://ictv19.xyz:8000/rob/123/22212
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME OESTE SD" tvg-logo="http://www.ictv19.xyz/logo/MAXPRIME-OESTE.jpg" group-title="Cine",MAX PRIME OESTE SD
+http://ictv19.xyz:8000/rob/123/22213
+#EXTINF:-1 tvg-id="" tvg-name="ORBIT TV SD" tvg-logo="http://www.jomyson.com/logo/Orbittv.jpg" group-title="Cine",ORBIT TV SD
+http://ictv19.xyz:8000/rob/123/10786
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT SD" tvg-logo="http://www.ictv19.xyz/logo/Paramount.png" group-title="Cine",PARAMOUNT SD
+http://ictv19.xyz:8000/rob/123/22214
+#EXTINF:-1 tvg-id="" tvg-name="SONY SD" tvg-logo="http://www.ictv19.xyz/logo/SONY.jpg" group-title="Cine",SONY SD
+http://ictv19.xyz:8000/rob/123/22215
+#EXTINF:-1 tvg-id="" tvg-name="SONY SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/SONY.jpg" group-title="Cine",SONY SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22216
+#EXTINF:-1 tvg-id="" tvg-name="SPACE SD" tvg-logo="http://www.jomyson.com/logo/SPACE.jpg" group-title="Cine",SPACE SD
+http://ictv19.xyz:8000/rob/123/22217
+#EXTINF:-1 tvg-id="" tvg-name="SPACE SD (opc2)" tvg-logo="http://www.jomyson.com/logo/SPACE.jpg" group-title="Cine",SPACE SD (opc2)
+http://ictv19.xyz:8000/rob/123/22218
+#EXTINF:-1 tvg-id="" tvg-name="SPACE SD (opc 3)" tvg-logo="http://www.jomyson.com/logo/SPACE.jpg" group-title="Cine",SPACE SD (opc 3)
+http://ictv19.xyz:8000/rob/123/22223
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL SD (opc 2)" tvg-logo="http://www.jomyson.com/logo/EstudioUniversal.png" group-title="Cine",STUDIO UNIVERSAL SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22224
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://www.jomyson.com/logo/EstudioUniversal.png" group-title="Cine",STUDIO UNIVERSAL SD
+http://ictv19.xyz:8000/rob/123/22241
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE SD" tvg-logo="http://www.ictv19.xyz/logo/SundanceTV.png" group-title="Cine",SUNDANCE SD
+http://ictv19.xyz:8000/rob/123/22226
+#EXTINF:-1 tvg-id="" tvg-name="SYFY SD" tvg-logo="http://www.ictv19.xyz/logo/Syfy.png" group-title="Cine",SYFY SD
+http://ictv19.xyz:8000/rob/123/22220
+#EXTINF:-1 tvg-id="" tvg-name="SYFY SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/Syfy.png" group-title="Cine",SYFY SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22221
+#EXTINF:-1 tvg-id="" tvg-name="TBS SD" tvg-logo="http://www.ictv19.xyz/logo/tbs.png" group-title="Cine",TBS SD
+http://ictv19.xyz:8000/rob/123/22227
+#EXTINF:-1 tvg-id="" tvg-name="TBS SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/tbs.png" group-title="Cine",TBS SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22228
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="http://www.brandemia.org/sites/default/files/logo_tcm_2.jpg" group-title="Cine",TCM SD
+http://ictv19.xyz:8000/rob/123/22229
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="http://www.ictv19.xyz/logo/tnt.png" group-title="Cine",TNT SD
+http://ictv19.xyz:8000/rob/123/22230
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/tnt.png" group-title="Cine",TNT SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22231
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD (opc 3)" tvg-logo="http://www.ictv19.xyz/logo/tnt.png" group-title="Cine",TNT SD (opc 3)
+http://ictv19.xyz:8000/rob/123/22232
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES SD" tvg-logo="http://www.jomyson.com/logo/TNTSERIES.png" group-title="Cine",TNT SERIES SD
+http://ictv19.xyz:8000/rob/123/22233
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES SD (opc 2)" tvg-logo="http://www.jomyson.com/logo/TNTSERIES.png" group-title="Cine",TNT SERIES SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22234
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES SD (opc 3)" tvg-logo="http://www.jomyson.com/logo/TNTSERIES.png" group-title="Cine",TNT SERIES SD (opc 3)
+http://ictv19.xyz:8000/rob/123/22235
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV SD" tvg-logo="http://www.ictv19.xyz/logo/truTV.png" group-title="Cine",TRU TV SD
+http://ictv19.xyz:8000/rob/123/22236
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/truTV.png" group-title="Cine",TRU TV SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22237
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV SD (opc 3)" tvg-logo="http://www.ictv19.xyz/logo/truTV.png" group-title="Cine",TRU TV SD (opc 3)
+http://ictv19.xyz:8000/rob/123/22374
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="http://www.jomyson.com/logo/UNIVERSAL-CHANNEL-HD.png" group-title="Cine",UNIVERSAL CHANNEL SD
+http://ictv19.xyz:8000/rob/123/22239
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL STUDIO SD" tvg-logo="http://www.jomyson.com/logo/EstudioUniversal.png" group-title="Cine",UNIVERSAL STUDIO SD
+http://ictv19.xyz:8000/rob/123/22240
+#EXTINF:-1 tvg-id="" tvg-name="WARNER SD" tvg-logo="http://www.ictv19.xyz/logo/WarnerChannel.png" group-title="Cine",WARNER SD
+http://ictv19.xyz:8000/rob/123/22242
+#EXTINF:-1 tvg-id="" tvg-name="WARNER SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/WarnerChannel.png" group-title="Cine",WARNER SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22243
+#EXTINF:-1 tvg-id="" tvg-name="WARNER SD (opc 3)" tvg-logo="http://www.ictv19.xyz/logo/WarnerChannel.png" group-title="Cine",WARNER SD (opc 3)
+http://ictv19.xyz:8000/rob/123/22244
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="Cine",HBO HD
+http://ictv19.xyz:8000/rob/123/23544
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="Cine",HBO 2 HD
+http://ictv19.xyz:8000/rob/123/23545
+#EXTINF:-1 tvg-id="" tvg-name="A3 SERIES FHD (opc 2) " tvg-logo="http://www.jomyson.com/logo/a3series.png" group-title="Cine",A3 SERIES FHD (opc 2) 
+http://ictv19.xyz:8000/rob/123/23162
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV FHD " tvg-logo="http://www.ictv19.xyz/logo/truTV.png" group-title="Cine",TRUTV FHD 
+http://ictv19.xyz:8000/rob/123/22238
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL FHD " tvg-logo="http://www.jomyson.com/logo/EstudioUniversal.png" group-title="Cine",STUDIO UNIVERSAL FHD 
+http://ictv19.xyz:8000/rob/123/22225
+#EXTINF:-1 tvg-id="" tvg-name="SYFY FHD " tvg-logo="http://www.ictv19.xyz/logo/Syfy.png" group-title="Cine",SYFY FHD 
+http://ictv19.xyz:8000/rob/123/22222
+#EXTINF:-1 tvg-id="" tvg-name="SPACE FHD " tvg-logo="http://www.jomyson.com/logo/SPACE.jpg" group-title="Cine",SPACE FHD 
+http://ictv19.xyz:8000/rob/123/22219
+#EXTINF:-1 tvg-id="" tvg-name="FOX FHD " tvg-logo="http://www.jomyson.com/logo/fox.png" group-title="Cine",FOX FHD 
+http://ictv19.xyz:8000/rob/123/22184
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX FHD " tvg-logo="http://ictv19.xyz/logo/Cinemax.png" group-title="Cine",CINEMAX FHD 
+http://ictv19.xyz:8000/rob/123/22166
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL FHD " tvg-logo="http://ictv19.xyz/logo/cinecanal.jpg" group-title="Cine",CINECANAL FHD 
+http://ictv19.xyz:8000/rob/123/22163
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM ACTION FHD " tvg-logo="http://ictv19.xyz/logo/FoxAction.png" group-title="Cine",FOX PREMIUM ACTION FHD 
+http://ictv19.xyz:8000/rob/123/6762
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM SERIES FHD " tvg-logo="http://ictv19.xyz/logo/FoxPremiumSeries.png" group-title="Cine",FOX PREMIUM SERIES FHD 
+http://ictv19.xyz:8000/rob/123/6761
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM MOVIES FHD" tvg-logo="http://ictv19.xyz/logo/FoxPremiumMovies.jpg" group-title="Cine",FOX PREMIUM MOVIES FHD
+http://ictv19.xyz:8000/rob/123/6758
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD " tvg-logo="http://ictv19.xyz/logo/AXN-HD.png" group-title="Cine",AXN FHD 
+http://ictv19.xyz:8000/rob/123/6743
+#EXTINF:-1 tvg-id="" tvg-name="FX FHD " tvg-logo="http://ictv19.xyz/logo/FX.jpg" group-title="Cine",FX FHD 
+http://ictv19.xyz:8000/rob/123/6737
+#EXTINF:-1 tvg-id="" tvg-name="SONY FHD " tvg-logo="http://www.jomyson.com/logo/SONY-HD.png" group-title="Cine",SONY FHD 
+http://ictv19.xyz:8000/rob/123/6733
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES FHD " tvg-logo="http://www.jomyson.com/logo/TNTSERIES.png" group-title="Cine",TNT SERIES FHD 
+http://ictv19.xyz:8000/rob/123/6731
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="http://www.jomyson.com/logo/UNIVERSAL-CHANNEL-HD.png" group-title="Cine",UNIVERSAL CHANNEL FHD
+http://ictv19.xyz:8000/rob/123/6728
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL FHD " tvg-logo="http://www.jomyson.com/logo/WARNER-CHANNEL-HD.png" group-title="Cine",WARNER CHANNEL FHD 
+http://ictv19.xyz:8000/rob/123/6727
+#EXTINF:-1 tvg-id="" tvg-name="A3 SERIES FHD " tvg-logo="http://www.ictv19.xyz/logo/A3Series.png" group-title="Cine",A3 SERIES FHD 
+http://ictv19.xyz:8000/rob/123/229
+#EXTINF:-1 tvg-id="" tvg-name="FXM FHD " tvg-logo="http://ictv19.xyz/logo/FXM.png" group-title="Cine",FXM FHD 
+http://ictv19.xyz:8000/rob/123/6670
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD " tvg-logo="http://www.jomyson.com/logo/TNT-HD.png" group-title="Cine",TNT FHD 
+http://ictv19.xyz:8000/rob/123/6678
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE FHD" tvg-logo="http://www.jomyson.com/logo/SundanceTV.png" group-title="Cine",SUNDANCE FHD
+http://ictv19.xyz:8000/rob/123/6680
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN FHD " tvg-logo="http://ictv19.xyz/logo/GOLDEN.png" group-title="Cine",GOLDEN FHD 
+http://ictv19.xyz:8000/rob/123/6690
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD " tvg-logo="http://ictv19.xyz/logo/amc.jpg" group-title="Cine",AMC FHD 
+http://ictv19.xyz:8000/rob/123/6696
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FHD " tvg-logo="http://www.jomyson.com/logo/paramount.png" group-title="Cine",PARAMOUNT FHD 
+http://ictv19.xyz:8000/rob/123/6716
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA - ATB SD" tvg-logo="https://d18qs7yq39787j.cloudfront.net/uploads/company/1713/ATB_logo.jpg" group-title="Bolivia",BOLIVIA - ATB SD
+http://ictv19.xyz:8000/rob/123/22395
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA - BOLIVIA TV SD" tvg-logo="http://www.boliviatv.bo/web/images.php?src=images/noticias/2017-03-08/images/ab11d8_Logo%20final%20modificado-01.png&w=400&q=100&s=1&zc=1" group-title="Bolivia",BOLIVIA - BOLIVIA TV SD
+http://ictv19.xyz:8000/rob/123/22396
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA - BOLIVISION SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/BOLIVISION.png/revision/latest?cb=20171019044958" group-title="Bolivia",BOLIVIA - BOLIVISION SD
+http://ictv19.xyz:8000/rob/123/22397
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA - CATÓLICA TV SD" tvg-logo="http://www.jomyson.com/logo/catolicatv.png" group-title="Bolivia",BOLIVIA - CATÓLICA TV SD
+http://ictv19.xyz:8000/rob/123/844
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA - UNITEL SD" tvg-logo="https://pbs.twimg.com/profile_images/804831400214065152/MOiQWZ4C.jpg" group-title="Bolivia",BOLIVIA - UNITEL SD
+http://ictv19.xyz:8000/rob/123/22398
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS HD (BOLIVIA)" tvg-logo="http://www.ictv19.xyz/logo/TigoSports1.jpg" group-title="Bolivia",TIGO SPORTS HD (BOLIVIA)
+http://ictv19.xyz:8000/rob/123/23335
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 2 HD (BOLIVIA)" tvg-logo="http://www.ictv19.xyz/logo/TigoSports2.jpg" group-title="Bolivia",TIGO SPORTS 2 HD (BOLIVIA)
+http://ictv19.xyz:8000/rob/123/23337
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 3 HD (BOLIVIA)" tvg-logo="http://www.ictv19.xyz/logo/TigoSports3.jpg" group-title="Bolivia",TIGO SPORTS 3 HD (BOLIVIA)
+http://ictv19.xyz:8000/rob/123/23338
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - VIDEOMIX SD" tvg-logo="http://www.jomyson.com/logo/VIDEOMIX.jpg" group-title="Brasil",BRASIL - VIDEOMIX SD
+http://ictv19.xyz:8000/rob/123/10699
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - REDE MINAS SD" tvg-logo="http://www.jomyson.com/logo/RedeMinas.png" group-title="Brasil",BRASIL - REDE MINAS SD
+http://ictv19.xyz:8000/rob/123/5492
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - REDE GOSPEL HD" tvg-logo="http://www.jomyson.com/logo/RedeGospel.png" group-title="Brasil",BRASIL - REDE GOSPEL HD
+http://ictv19.xyz:8000/rob/123/5499
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - REDE ATIVIDADE HD" tvg-logo="https://pbs.twimg.com/profile_images/1058040685411160064/0hZQTQI9.jpg" group-title="Brasil",BRASIL - REDE ATIVIDADE HD
+http://ictv19.xyz:8000/rob/123/10688
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - PUC TV  GOIAS SD" tvg-logo="https://2.bp.blogspot.com/-YU85LC9EbW4/WRbC49irwgI/AAAAAAAAsDw/6rlQLHz9ba8eI8yyhOhMdmjZ450EhKRzwCLcB/s1600/puc-tv.jpg" group-title="Brasil",BRASIL - PUC TV  GOIAS SD
+http://ictv19.xyz:8000/rob/123/10686
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - PARANA SD" tvg-logo="https://negociosrpc-prd.s3.amazonaws.com/wp-content/uploads/2015/11/logo-PRTV-2011-HD.jpg" group-title="Brasil",BRASIL - PARANA SD
+http://ictv19.xyz:8000/rob/123/10685
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - MN SD" tvg-logo="https://image.winudf.com/v2/image/YnIuY29tLmRpYXJpb2Rvc2VydGFvLmFwcC50dmRzX3NjcmVlbl8wXzRnbXk5cmV3/screen-0.jpg?h=800&fakeurl=1" group-title="Brasil",BRASIL - MN SD
+http://ictv19.xyz:8000/rob/123/10718
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - M2O SD" tvg-logo="http://www.jomyson.com/logo/M2O.png" group-title="Brasil",BRASIL - M2O SD
+http://ictv19.xyz:8000/rob/123/10703
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - E-PARANA SD" tvg-logo="http://www.jomyson.com/logo/e-parana.png" group-title="Brasil",BRASIL - E-PARANA SD
+http://ictv19.xyz:8000/rob/123/10702
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - ALL SPORT SD" tvg-logo="http://www.jomyson.com/logo/allSport.png" group-title="Brasil",BRASIL - ALL SPORT SD
+http://ictv19.xyz:8000/rob/123/5498
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - DIARIO DO SERTAO SD" tvg-logo="http://www.jomyson.com/logo/DiariO%20do%20Sertao.jpg" group-title="Brasil",BRASIL - DIARIO DO SERTAO SD
+http://ictv19.xyz:8000/rob/123/10697
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - 24 HORAS SD" tvg-logo="http://www.ictv19.xyz/logo/24horas.png" group-title="Chile",CHILE - 24 HORAS SD
+http://ictv19.xyz:8000/rob/123/22399
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - 24 HORAS SD (opc2)" tvg-logo="http://www.ictv19.xyz/logo/24horas.png" group-title="Chile",CHILE - 24 HORAS SD (opc2)
+http://ictv19.xyz:8000/rob/123/22400
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - 24 HORAS HD" tvg-logo="http://www.jomyson.com/logo/a24.jpg" group-title="Chile",CHILE - 24 HORAS HD
+http://ictv19.xyz:8000/rob/123/641
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - BANG TV SD" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_Noxs905koc0DOqYkTSomAycRnIyvhebns9g=s900-c-k-c0xffffffff-no-rj-mo" group-title="Chile",CHILE - BANG TV SD
+http://ictv19.xyz:8000/rob/123/22401
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CANAL 13 SD" tvg-logo="http://www.venezuelaawareness.com/wp-content/uploads/2014/03/canal-13-Chile-logo.jpg" group-title="Chile",CHILE - CANAL 13 SD
+http://ictv19.xyz:8000/rob/123/22402
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CANAL 13 (opc2)" tvg-logo="http://www.venezuelaawareness.com/wp-content/uploads/2014/03/canal-13-Chile-logo.jpg" group-title="Chile",CHILE - CANAL 13 (opc2)
+http://ictv19.xyz:8000/rob/123/22403
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CANAL 13 HD" tvg-logo="http://www.venezuelaawareness.com/wp-content/uploads/2014/03/canal-13-Chile-logo.jpg" group-title="Chile",CHILE - CANAL 13 HD
+http://ictv19.xyz:8000/rob/123/22404
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CANAL 13 FHD" tvg-logo="http://www.jomyson.com/logo/canal13chile.png" group-title="Chile",CHILE - CANAL 13 FHD
+http://ictv19.xyz:8000/rob/123/722
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CDO BASICO SD" tvg-logo="http://www.ictv19.xyz/logo/cdochile.jpg" group-title="Chile",CHILE - CDO BASICO SD
+http://ictv19.xyz:8000/rob/123/22407
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CDO PREMIUM SD" tvg-logo="http://www.ictv19.xyz/logo/cdochile.jpg" group-title="Chile",CHILE - CDO PREMIUM SD
+http://ictv19.xyz:8000/rob/123/22408
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CHV SD" tvg-logo="http://www.ictv19.xyz/logo/chilevision.png" group-title="Chile",CHILE - CHV SD
+http://ictv19.xyz:8000/rob/123/22409
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CHILEVISION SD" tvg-logo="http://www.ictv19.xyz/logo/chilevision.png" group-title="Chile",CHILE - CHILEVISION SD
+http://ictv19.xyz:8000/rob/123/22410
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CHILEVISION HD" tvg-logo="http://www.ictv19.xyz/logo/chilevision.png" group-title="Chile",CHILE - CHILEVISION HD
+http://ictv19.xyz:8000/rob/123/22411
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CHILEVISION HD (opc 2)" tvg-logo="http://www.jomyson.com/logo/chilevision.png" group-title="Chile",CHILE - CHILEVISION HD (opc 2)
+http://ictv19.xyz:8000/rob/123/794
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CHILEVISION FHD" tvg-logo="http://www.jomyson.com/logo/chilevision.png" group-title="Chile",CHILE - CHILEVISION FHD
+http://ictv19.xyz:8000/rob/123/966
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CNN FHD" tvg-logo="http://www.jomyson.com/logo/CNNCHILE.png" group-title="Chile",CHILE - CNN FHD
+http://ictv19.xyz:8000/rob/123/3191
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CRONICA TV" tvg-logo="http://www.ictv19.xyz/logo/CRONICA%20HD.png" group-title="Chile",CHILE - CRONICA TV
+http://ictv19.xyz:8000/rob/123/22413
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - EL PINGUINO TV HD" tvg-logo="http://www.jomyson.com/logo/ElPinguino.jpg" group-title="Chile",CHILE - EL PINGUINO TV HD
+http://ictv19.xyz:8000/rob/123/1189
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Chile",CHILE - ETC TV
+http://ictv19.xyz:8000/rob/123/22414
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - FM HOT HD" tvg-logo="http://www.jomyson.com/logo/FMHOT.png" group-title="Chile",CHILE - FM HOT HD
+http://ictv19.xyz:8000/rob/123/10960
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - HOLVOET SD" tvg-logo="http://www.jomyson.com/logo/holvoetv.jpg" group-title="Chile",CHILE - HOLVOET SD
+http://ictv19.xyz:8000/rob/123/10978
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - LA RED SD" tvg-logo="http://www.ictv19.xyz/logo/LARED.jpg" group-title="Chile",CHILE - LA RED SD
+http://ictv19.xyz:8000/rob/123/22415
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - LA RED HD" tvg-logo="http://www.jomyson.com/logo/LARED.jpg" group-title="Chile",CHILE - LA RED HD
+http://ictv19.xyz:8000/rob/123/1420
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - LA RED FHD" tvg-logo="http://www.ictv19.xyz/logo/LARED.jpg" group-title="Chile",CHILE - LA RED FHD
+http://ictv19.xyz:8000/rob/123/717
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - MAXIMA MOVIE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBg3diLTBOlr1ECIQ1MAXdIg_15b40q6Cr9J89TOBmhcERPchW&s" group-title="Chile",CHILE - MAXIMA MOVIE HD
+http://ictv19.xyz:8000/rob/123/10980
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGA SD" tvg-logo="http://www.ictv19.xyz/logo/megachile.png" group-title="Chile",CHILE - MEGA SD
+http://ictv19.xyz:8000/rob/123/22416
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGA SD (opc2)" tvg-logo="http://www.ictv19.xyz/logo/megachile.png" group-title="Chile",CHILE - MEGA SD (opc2)
+http://ictv19.xyz:8000/rob/123/22417
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGA HD" tvg-logo="http://www.ictv19.xyz/logo/megachile.png" group-title="Chile",CHILE - MEGA HD
+http://ictv19.xyz:8000/rob/123/22418
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGA FHD 2" tvg-logo="http://www.jomyson.com/logo/megachile.png" group-title="Chile",CHILE - MEGA FHD 2
+http://ictv19.xyz:8000/rob/123/967
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGA PLUS FHD" tvg-logo="http://www.jomyson.com/logo/megaplus.jpg" group-title="Chile",CHILE - MEGA PLUS FHD
+http://ictv19.xyz:8000/rob/123/17253
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGANOTICIAS HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l790QCWpgPDcehyjzfhDKe2MqcuwGJc6HbUR4Q=s900-c-k-c0xffffffff-no-rj-mo" group-title="Chile",CHILE - MEGANOTICIAS HD
+http://ictv19.xyz:8000/rob/123/17368
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - PORTAL FOXMIX TV FHD" tvg-logo="http://www.jomyson.com/logo/portal_foxmix.png" group-title="Chile",CHILE - PORTAL FOXMIX TV FHD
+http://ictv19.xyz:8000/rob/123/788
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - PUERTA NORTE TV SD" tvg-logo="http://www.radiopuertanorte.cl/logo-frecuencia.jpg" group-title="Chile",CHILE - PUERTA NORTE TV SD
+http://ictv19.xyz:8000/rob/123/10977
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TELETRAK SD" tvg-logo="http://www.ictv19.xyz/logo/TELETRAKtv.jpg" group-title="Chile",CHILE - TELETRAK SD
+http://ictv19.xyz:8000/rob/123/22420
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TV CHILE  HD" tvg-logo="http://www.ictv19.xyz/logo/TVChile_Inter_logo_2016.png" group-title="Chile",CHILE - TV CHILE  HD
+http://ictv19.xyz:8000/rob/123/17369
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TV+ SD" tvg-logo="https://pbs.twimg.com/profile_images/1065336420410249218/Kwv61nmF_400x400.jpg" group-title="Chile",CHILE - TV+ SD
+http://ictv19.xyz:8000/rob/123/22421
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TV+ FHD" tvg-logo="http://www.jomyson.com/logo/TV+_(2018).png" group-title="Chile",CHILE - TV+ FHD
+http://ictv19.xyz:8000/rob/123/793
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TV+ FHD 2" tvg-logo="https://mdstrm.com/thumbs/5c0e87c403a35601ebcffcf1/live/59/5c0e8b19e4c87f3f2d3e6a59_1556225010396.png" group-title="Chile",CHILE - TV+ FHD 2
+http://ictv19.xyz:8000/rob/123/10979
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TVN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/TVN_Chile_Logo.svg/400px-TVN_Chile_Logo.svg.png" group-title="Chile",CHILE - TVN SD
+http://ictv19.xyz:8000/rob/123/22422
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TVN SD (opc2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/TVN_Chile_Logo.svg/400px-TVN_Chile_Logo.svg.png" group-title="Chile",CHILE - TVN SD (opc2)
+http://ictv19.xyz:8000/rob/123/22423
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TVN HD" tvg-logo="" group-title="Chile",CHILE - TVN HD
+http://ictv19.xyz:8000/rob/123/22424
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TVN FHD" tvg-logo="http://www.jomyson.com/logo/TVN-CHILE.png" group-title="Chile",CHILE - TVN FHD
+http://ictv19.xyz:8000/rob/123/3731
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TVN KIDS SD" tvg-logo="http://chileiptv.cl/img/logos/file_1513001323.jpg" group-title="Chile",CHILE - TVN KIDS SD
+http://ictv19.xyz:8000/rob/123/3996
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TVR FHD" tvg-logo="http://www.jomyson.com/logo/tvr%20chi.jpg" group-title="Chile",CHILE - TVR FHD
+http://ictv19.xyz:8000/rob/123/10956
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - VALLE TV CANAL 2 SD" tvg-logo="http://www.jomyson.com/logo/VALLETV-CHILE.jpgg" group-title="Chile",CHILE - VALLE TV CANAL 2 SD
+http://ictv19.xyz:8000/rob/123/884
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - VIA X SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZuK0MMsDj1y6SE5omUUrdYJrzAGbjXxZkB3sKb2xp41F42Nkw&s" group-title="Chile",CHILE - VIA X SD
+http://ictv19.xyz:8000/rob/123/22425
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - ZONA LATINA SD" tvg-logo="http://www.observatoriofucatel.cl/wp-content/uploads/2010/12/logo-ZonaLatina.jpg" group-title="Chile",CHILE - ZONA LATINA SD
+http://ictv19.xyz:8000/rob/123/22426
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CONTIVISION" tvg-logo="http://www.jomyson.com/logo/CONTIVISION.jpg" group-title="Chile",CHILE - CONTIVISION
+http://ictv19.xyz:8000/rob/123/10958
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CANAL 13 HD (opc2)" tvg-logo="http://www.jomyson.com/logo/canal13chile.png" group-title="Chile",CHILE - CANAL 13 HD (opc2)
+http://ictv19.xyz:8000/rob/123/1422
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CNN CHILE SD" tvg-logo="http://www.ictv19.xyz/logo/CNN%20CHILE.png" group-title="Chile",CHILE - CNN CHILE SD
+http://ictv19.xyz:8000/rob/123/22412
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGA FHD" tvg-logo="http://www.jomyson.com/logo/megachile.png" group-title="Chile",CHILE - MEGA FHD
+http://ictv19.xyz:8000/rob/123/3691
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - UCV3 HD" tvg-logo="http://www.jomyson.com/logo/ucv3.png" group-title="Chile",CHILE - UCV3 HD
+http://ictv19.xyz:8000/rob/123/10954
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - 15 TV SD" tvg-logo="http://www.jomyson.com/logo/15TV.jpg" group-title="Mexico",MEXICO - 15 TV SD
+http://ictv19.xyz:8000/rob/123/10790
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - ADN 40 SD" tvg-logo="http://www.ictv19.xyz/logo/adn40.png" group-title="Mexico",MEXICO - ADN 40 SD
+http://ictv19.xyz:8000/rob/123/22459
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - ADN 40 FHD " tvg-logo="http://www.jomyson.com/logo/adn40.png" group-title="Mexico",MEXICO - ADN 40 FHD 
+http://ictv19.xyz:8000/rob/123/22460
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZ CINEMA SD (opc 2)" tvg-logo="http://www.jomyson.com/logo/AZTECA-CINEMA-HD.png" group-title="Mexico",MEXICO - AZ CINEMA SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22462
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZ CLIC SD" tvg-logo="http://www.jomyson.com/logo/azCLIC.jpg" group-title="Mexico",MEXICO - AZ CLIC SD
+http://ictv19.xyz:8000/rob/123/22463
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZ CLIC SD (opc 2)" tvg-logo="http://www.jomyson.com/logo/azCLIC.jpg" group-title="Mexico",MEXICO - AZ CLIC SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22464
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZ CORAZON SD" tvg-logo="http://www.ictv19.xyz/logo/AZTECA-CORAZON-HD.png" group-title="Mexico",MEXICO - AZ CORAZON SD
+http://ictv19.xyz:8000/rob/123/22466
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZ CORAZON SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/AZTECA-CORAZON-HD.png" group-title="Mexico",MEXICO - AZ CORAZON SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22467
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZ MUNDO SD" tvg-logo="http://www.ictv19.xyz/logo/AZTECA-MUNDO-HD-.png" group-title="Mexico",MEXICO - AZ MUNDO SD
+http://ictv19.xyz:8000/rob/123/22468
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZ MUNDO SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/AZTECA-MUNDO-HD-.png" group-title="Mexico",MEXICO - AZ MUNDO SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22469
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZTECA UNO SD" tvg-logo="http://planoinformativo.com/stock12/image/2018/Enero/05/Azteca-Uno.jpg" group-title="Mexico",MEXICO - AZTECA UNO SD
+http://ictv19.xyz:8000/rob/123/22470
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZTECA 7 SD" tvg-logo="http://www.ictv19.xyz/logo/AZTECA-7-HD.png" group-title="Mexico",MEXICO - AZTECA 7 SD
+http://ictv19.xyz:8000/rob/123/22472
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZTECA 7 SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/AZTECA-7-HD.png" group-title="Mexico",MEXICO - AZTECA 7 SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22473
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZTECA 13 SD" tvg-logo="http://www.ictv19.xyz/logo/AZTECA-13-HD.png" group-title="Mexico",MEXICO - AZTECA 13 SD
+http://ictv19.xyz:8000/rob/123/22475
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - CANAL 5 SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/15/Imagen58_5_15.png/revision/latest?cb=20150316151928&path-prefix=es" group-title="Mexico",MEXICO - CANAL 5 SD
+http://ictv19.xyz:8000/rob/123/22476
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - CANAL 5 SD (opc 2)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/15/Imagen58_5_15.png/revision/latest?cb=20150316151928&path-prefix=es" group-title="Mexico",MEXICO - CANAL 5 SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22477
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - CANAL 10 CHETUMAL HD" tvg-logo="http://www.jomyson.com/logo/CANAL10.jpg" group-title="Mexico",MEXICO - CANAL 10 CHETUMAL HD
+http://ictv19.xyz:8000/rob/123/10788
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - CANAL 15 FRESNILLO FHD" tvg-logo="https://3.bp.blogspot.com/-wCg31_5xFw4/VtR_gyAkUgI/AAAAAAAADEI/YD7yAUlRb5c/s1600/canal-15-fresnillo.jpg" group-title="Mexico",MEXICO - CANAL 15 FRESNILLO FHD
+http://ictv19.xyz:8000/rob/123/1388
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - CANAL 50 CIUDAD DE JUAREZ SD (opc 2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvNnSixfZlpY-hzVBhfTBBNdYN4548jrp2WpyFyVbYz3kXILU&s" group-title="Mexico",MEXICO - CANAL 50 CIUDAD DE JUAREZ SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22478
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - CANAL 11 SD" tvg-logo="http://www.ictv19.xyz/logo/CANAL11-MEXICO.png" group-title="Mexico",MEXICO - CANAL 11 SD
+http://ictv19.xyz:8000/rob/123/22479
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - CANAL 11 SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/CANAL11-MEXICO.png" group-title="Mexico",MEXICO - CANAL 11 SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22480
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - CANAL JUDICIAL SD" tvg-logo="http://www.ictv19.xyz/logo/CANALJUDICIAL.png" group-title="Mexico",MEXICO - CANAL JUDICIAL SD
+http://ictv19.xyz:8000/rob/123/22481
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - CONGRESO DE LA UNION SD" tvg-logo="http://www.ictv19.xyz/logo/CANALDELCONGRESO.jpg" group-title="Mexico",MEXICO - CONGRESO DE LA UNION SD
+http://ictv19.xyz:8000/rob/123/22483
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - EL FINANCIERO BLOOMBERG SD (opc 2)" tvg-logo="http://www.jomyson.com/logo/ELFINANCIEROBLOOMBERGS.jpg" group-title="Mexico",MEXICO - EL FINANCIERO BLOOMBERG SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22484
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - FORO TV SD" tvg-logo="http://www.ictv19.xyz/logo/FOROTV.png" group-title="Mexico",MEXICO - FORO TV SD
+http://ictv19.xyz:8000/rob/123/22485
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - GALAVISION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="Mexico",MEXICO - GALAVISION SD
+http://ictv19.xyz:8000/rob/123/22486
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - GALAVISION SD (opc 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="Mexico",MEXICO - GALAVISION SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22487
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - LAS ESTRELLAS SD (opc2)" tvg-logo="http://www.ictv19.xyz/logo/CANALASESTRELLAS.png" group-title="Mexico",MEXICO - LAS ESTRELLAS SD (opc2)
+http://ictv19.xyz:8000/rob/123/22489
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - MEXIQUENSE SD" tvg-logo="http://www.sanchezcarrillo.tv/wp-content/uploads/2018/09/155c873f-0fb8-40bb-be1c-052c72d15836.png" group-title="Mexico",MEXICO - MEXIQUENSE SD
+http://ictv19.xyz:8000/rob/123/22491
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - MVS TV SD" tvg-logo="https://pbs.twimg.com/profile_images/1058446981872242688/JxSzfIPy_400x400.jpg" group-title="Mexico",MEXICO - MVS TV SD
+http://ictv19.xyz:8000/rob/123/22493
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - LAS ESTRELLAS SD (opc3)" tvg-logo="http://www.ictv19.xyz/logo/CANALASESTRELLAS.png" group-title="Mexico",MEXICO - LAS ESTRELLAS SD (opc3)
+http://ictv19.xyz:8000/rob/123/22490
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - MORBID TV SD" tvg-logo="data:image/jpeg;base64,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" group-title="Mexico",MEXICO - MORBID TV SD
+http://ictv19.xyz:8000/rob/123/22492
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - MULTIMEDIOS SD (opc 2)" tvg-logo="http://www.jomyson.com/logo/multimedios.png" group-title="Mexico",MEXICO - MULTIMEDIOS SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22495
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - MULTIMEDIOS MONTERREY" tvg-logo="" group-title="Mexico",MEXICO - MULTIMEDIOS MONTERREY
+http://ictv19.xyz:8000/rob/123/4
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - SURES TV SD" tvg-logo="https://pbs.twimg.com/profile_images/690331166583336960/x-HAio5d_400x400.jpg" group-title="Mexico",MEXICO - SURES TV SD
+http://ictv19.xyz:8000/rob/123/22498
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TELEFORMULA SD (opc 2)" tvg-logo="http://www.jomyson.com/logo/TELEFORMULA-HD.png" group-title="Mexico",MEXICO - TELEFORMULA SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22499
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - MULTIMEDIOS PLUS SD" tvg-logo="http:/http://www.jomyson.com/logo/MULTIMEDIOPLUS.png" group-title="Mexico",MEXICO - MULTIMEDIOS PLUS SD
+http://ictv19.xyz:8000/rob/123/22497
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - RCG TV Coahuila SD" tvg-logo="https://pbs.twimg.com/profile_images/1401363587/logo_400x400.jpg" group-title="Mexico",MEXICO - RCG TV Coahuila SD
+http://ictv19.xyz:8000/rob/123/1375
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TELEVISA SD" tvg-logo="https://studiosol-a.akamaihd.net/letras/338x298/fotos/4/f/0/b/4f0bfaecd026f65eb03191c5f11fc86e.jpg" group-title="Mexico",MEXICO - TELEVISA SD
+http://ictv19.xyz:8000/rob/123/22501
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TELEVISA MTY SD" tvg-logo="http://www.ictv19.xyz/logo/TelevisaMTY.jpeg" group-title="Mexico",MEXICO - TELEVISA MTY SD
+http://ictv19.xyz:8000/rob/123/22502
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TELEVISA PUEBLA SD" tvg-logo="http://www.jomyson.com/logo/TelevisaPuebla.jpg" group-title="Mexico",MEXICO - TELEVISA PUEBLA SD
+http://ictv19.xyz:8000/rob/123/22503
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TV4 LEON GUANAJUATO SD" tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="Mexico",MEXICO - TV4 LEON GUANAJUATO SD
+http://ictv19.xyz:8000/rob/123/22504
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TVC SD" tvg-logo="http://www.ictv19.xyz/logo/TVC.png" group-title="Mexico",MEXICO - TVC SD
+http://ictv19.xyz:8000/rob/123/22505
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TV MAS SD" tvg-logo="http://www.ictv19.xyz/logo/TvMas.png" group-title="Mexico",MEXICO - TV MAS SD
+http://ictv19.xyz:8000/rob/123/22506
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - UNICABLE SD" tvg-logo="http://www.ictv19.xyz/logo/UNICABLE-HD.png" group-title="Mexico",MEXICO - UNICABLE SD
+http://ictv19.xyz:8000/rob/123/22507
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - UNICABLE SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/UNICABLE-HD.png" group-title="Mexico",MEXICO - UNICABLE SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22508
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - ADN 40 FHD 2" tvg-logo="http://www.jomyson.com/logo/adn40.png" group-title="Mexico",MEXICO - ADN 40 FHD 2
+http://ictv19.xyz:8000/rob/123/10
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - CANAL 11 HD" tvg-logo="http://www.jomyson.com/logo/CANAL11-MEXICO.png" group-title="Mexico",MEXICO - CANAL 11 HD
+http://ictv19.xyz:8000/rob/123/8
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - GALA TV SD" tvg-logo="http://www.jomyson.com/logo/GALATV.png" group-title="Mexico",MEXICO - GALA TV SD
+http://ictv19.xyz:8000/rob/123/7
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - LAS ESTRELLAS FHD (opc 2)" tvg-logo="http://www.jomyson.com/logo/CANALASESTRELLAS.png" group-title="Mexico",MEXICO - LAS ESTRELLAS FHD (opc 2)
+http://ictv19.xyz:8000/rob/123/3
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TELEFORMULA SD" tvg-logo="http://www.jomyson.com/logo/TELEFORMULA-HD.png" group-title="Mexico",MEXICO - TELEFORMULA SD
+http://ictv19.xyz:8000/rob/123/22380
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - EL FINANCIERO BLOOMBERG SD" tvg-logo="http://www.jomyson.com/logo/ELFINANCIEROBLOOMBERGS.jpg" group-title="Mexico",MEXICO - EL FINANCIERO BLOOMBERG SD
+http://ictv19.xyz:8000/rob/123/22357
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - FORO TV SD (opc 2)" tvg-logo="" group-title="Mexico",MEXICO - FORO TV SD (opc 2)
+http://ictv19.xyz:8000/rob/123/22363
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - HAVOC SD" tvg-logo="" group-title="Mexico",MEXICO - HAVOC SD
+http://ictv19.xyz:8000/rob/123/22204
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - MILENIO TV" tvg-logo="http://www.jomyson.com/logo/MILENIOTV.png" group-title="Mexico",MEXICO - MILENIO TV
+http://ictv19.xyz:8000/rob/123/599
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TVE SD" tvg-logo="http://www.jomyson.com/logo/TVE.jpg.png" group-title="Mexico",MEXICO - TVE SD
+http://ictv19.xyz:8000/rob/123/442
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - UNICABLE SD" tvg-logo="http://www.jomyson.com/logo/UNICABLE.gif" group-title="Mexico",MEXICO - UNICABLE SD
+http://ictv19.xyz:8000/rob/123/409
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TELEMAR SD " tvg-logo="http://www.jomyson.com/logo/telemar.png" group-title="Mexico",MEXICO - TELEMAR SD 
+http://ictv19.xyz:8000/rob/123/10821
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TV4 LEON GUANAJUATO FHD " tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="Mexico",MEXICO - TV4 LEON GUANAJUATO FHD 
+http://ictv19.xyz:8000/rob/123/23163
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TELEFORMULA FHD " tvg-logo="http://www.jomyson.com/logo/TELEFORMULA-HD.png" group-title="Mexico",MEXICO - TELEFORMULA FHD 
+http://ictv19.xyz:8000/rob/123/22500
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - MULTIMEDIOS FHD " tvg-logo="http://www.jomyson.com/logo/multimedios.png" group-title="Mexico",MEXICO - MULTIMEDIOS FHD 
+http://ictv19.xyz:8000/rob/123/22496
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - MULTIMEDIOS PLUS FHD " tvg-logo="http://www.jomyson.com/logo/multimedios.png" group-title="Mexico",MEXICO - MULTIMEDIOS PLUS FHD 
+http://ictv19.xyz:8000/rob/123/22494
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - CANAL JUDICIAL FHD " tvg-logo="hhttp://www.jomyson.com/logo/CANALJUDICIAL.png" group-title="Mexico",MEXICO - CANAL JUDICIAL FHD 
+http://ictv19.xyz:8000/rob/123/22482
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZTECA 7 FHD " tvg-logo="http://www.ictv19.xyz/logo/AZTECA-7-HD.png" group-title="Mexico",MEXICO - AZTECA 7 FHD 
+http://ictv19.xyz:8000/rob/123/22474
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZTECA UNO FHD " tvg-logo="http://planoinformativo.com/stock12/image/2018/Enero/05/Azteca-Uno.jpg" group-title="Mexico",MEXICO - AZTECA UNO FHD 
+http://ictv19.xyz:8000/rob/123/22471
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZ CLIC FHD " tvg-logo="http://www.jomyson.com/logo/azCLIC.jpg" group-title="Mexico",MEXICO - AZ CLIC FHD 
+http://ictv19.xyz:8000/rob/123/22465
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - CANAL 5 FHD " tvg-logo="http://www.jomyson.com/logo/Canal5.png" group-title="Mexico",MEXICO - CANAL 5 FHD 
+http://ictv19.xyz:8000/rob/123/6753
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - FORO TV FHD " tvg-logo="http://www.jomyson.com/logo/FORO-TV-HD.png" group-title="Mexico",MEXICO - FORO TV FHD 
+http://ictv19.xyz:8000/rob/123/6752
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - LAS ESTRELLAS FHD " tvg-logo="http://www.jomyson.com/logo/CANALASESTRELLAS.png" group-title="Mexico",MEXICO - LAS ESTRELLAS FHD 
+http://ictv19.xyz:8000/rob/123/6751
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - GALA TV FHD " tvg-logo="http://www.jomyson.com/logo/GALATV.png" group-title="Mexico",MEXICO - GALA TV FHD 
+http://ictv19.xyz:8000/rob/123/6750
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - ONCE TV FHD " tvg-logo="http://www.jomyson.com/logo/CANAL11-MEXICO.png" group-title="Mexico",MEXICO - ONCE TV FHD 
+http://ictv19.xyz:8000/rob/123/6746
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZ MUNDO FHD " tvg-logo="http://www.jomyson.com/logo/AZTECA-MUNDO-HD-.png" group-title="Mexico",MEXICO - AZ MUNDO FHD 
+http://ictv19.xyz:8000/rob/123/6726
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - HAVOC FHD" tvg-logo="http://www.jomyson.com/logo/havoc.jpg" group-title="Mexico",MEXICO - HAVOC FHD
+http://ictv19.xyz:8000/rob/123/6725
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - CANAL DEL CONGRESO FHD " tvg-logo="http://www.jomyson.com/logo/CANALDELCONGRESO.jpg" group-title="Mexico",MEXICO - CANAL DEL CONGRESO FHD 
+http://ictv19.xyz:8000/rob/123/6719
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - EL FINANCIERO BLOOMBERGS FHD " tvg-logo="http://www.jomyson.com/logo/ELFINANCIEROBLOOMBERGS.jpg" group-title="Mexico",MEXICO - EL FINANCIERO BLOOMBERGS FHD 
+http://ictv19.xyz:8000/rob/123/436
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TVMAS  FHD " tvg-logo="http://www.jomyson.com/logo/TvMas.png" group-title="Mexico",MEXICO - TVMAS  FHD 
+http://ictv19.xyz:8000/rob/123/6665
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TELEVISA PUEBLA FHD" tvg-logo="http://www.jomyson.com/logo/TelevisaPuebla.jpg" group-title="Mexico",MEXICO - TELEVISA PUEBLA FHD
+http://ictv19.xyz:8000/rob/123/6666
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - STAR TVE FHD" tvg-logo="http://www.jomyson.com/logo/StarTVE.png" group-title="Mexico",MEXICO - STAR TVE FHD
+http://ictv19.xyz:8000/rob/123/6667
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - ANTENA 3 FHD" tvg-logo="http://www.jomyson.com/logo/antena3.png" group-title="Mexico",MEXICO - ANTENA 3 FHD
+http://ictv19.xyz:8000/rob/123/6673
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TVC FHD " tvg-logo="http://www.jomyson.com/logo/TVC.png" group-title="Mexico",MEXICO - TVC FHD 
+http://ictv19.xyz:8000/rob/123/6676
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - MEXIQUENSE FHD " tvg-logo="http://www.jomyson.com/logo/mexiquense.jpg" group-title="Mexico",MEXICO - MEXIQUENSE FHD 
+http://ictv19.xyz:8000/rob/123/6687
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - AZ CINEMA FHD " tvg-logo="http://www.jomyson.com/logo/AZTECA-CINEMA-HD.png" group-title="Mexico",MEXICO - AZ CINEMA FHD 
+http://ictv19.xyz:8000/rob/123/6695
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - MORBIDTV FHD" tvg-logo="http://www.jomyson.com/logo/morbidotv.png" group-title="Mexico",MEXICO - MORBIDTV FHD
+http://ictv19.xyz:8000/rob/123/6721
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO - TELEVISA MTY SD " tvg-logo="http://www.jomyson.com/logo/TelevisaMTY.jpeg" group-title="Mexico",MEXICO - TELEVISA MTY SD 
+http://ictv19.xyz:8000/rob/123/6715
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - GALAVISION" tvg-logo="http://4.bp.blogspot.com/-TkBlZK4t0fo/UJr_luOw-jI/AAAAAAAAPVI/Fy0Du_R9ikM/s1600/Galavisi%C3%B3n+logo.jpg" group-title="Usa-Es",USA ES - GALAVISION
+http://ictv19.xyz:8000/rob/123/23007
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - TELEMUNDO 51 HD" tvg-logo="https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v_400x400.jpg" group-title="Usa-Es",USA ES - TELEMUNDO 51 HD
+http://ictv19.xyz:8000/rob/123/22536
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - TELEMUNDO FHD" tvg-logo="http://www.brandemia.org/wp-content/uploads/2012/06/logo_principal_telemundo.jpg" group-title="Usa-Es",USA ES - TELEMUNDO FHD
+http://ictv19.xyz:8000/rob/123/22535
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - TELEMUNDO INTERNACIONAL SD" tvg-logo="https://pbs.twimg.com/profile_images/1090260304892616707/otsIXDu8_400x400.jpg" group-title="Usa-Es",USA ES - TELEMUNDO INTERNACIONAL SD
+http://ictv19.xyz:8000/rob/123/22537
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - TELEMUNDO LOS ANGELES" tvg-logo="https://pbs.twimg.com/profile_images/856417812478173184/fQpirsOG.jpg" group-title="Usa-Es",USA ES - TELEMUNDO LOS ANGELES
+http://ictv19.xyz:8000/rob/123/23085
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - TELEMUNDO MIAMI" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="Usa-Es",USA ES - TELEMUNDO MIAMI
+http://ictv19.xyz:8000/rob/123/23086
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - TELEMUNDO NEW YORK" tvg-logo="https://impactolatino.com/wp-content/uploads/2018/01/4-telemundo-324x235.jpg" group-title="Usa-Es",USA ES - TELEMUNDO NEW YORK
+http://ictv19.xyz:8000/rob/123/23087
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIMAS ARIZONA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/UniMas_Arizona.gif" group-title="Usa-Es",USA ES - UNIMAS ARIZONA
+http://ictv19.xyz:8000/rob/123/23091
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIMAS AUSTIN" tvg-logo="" group-title="Usa-Es",USA ES - UNIMAS AUSTIN
+http://ictv19.xyz:8000/rob/123/23092
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIMAS CALIFORNIA" tvg-logo="http://www.ictv19.xyz/logo/unimas.png" group-title="Usa-Es",USA ES - UNIMAS CALIFORNIA
+http://ictv19.xyz:8000/rob/123/23093
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIMAS CHICAGO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/WXFT_2013_Logo.png" group-title="Usa-Es",USA ES - UNIMAS CHICAGO
+http://ictv19.xyz:8000/rob/123/23094
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIMAS DALLAS" tvg-logo="http://www.ictv19.xyz/logo/unimas.png" group-title="Usa-Es",USA ES - UNIMAS DALLAS
+http://ictv19.xyz:8000/rob/123/23095
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIMAS LOS ANGELES" tvg-logo="https://s3.amazonaws.com/fs.goanimate.com/files/thumbnails/movie/1369/1990369/17118673L.jpg" group-title="Usa-Es",USA ES - UNIMAS LOS ANGELES
+http://ictv19.xyz:8000/rob/123/23096
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIMAS MIAMI" tvg-logo="https://www.miamibookfair.com/wp-content/uploads/2016/10/Unimas-69-Miami.jpg" group-title="Usa-Es",USA ES - UNIMAS MIAMI
+http://ictv19.xyz:8000/rob/123/23097
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIMAS NEW YORK" tvg-logo="https://banner2.kisspng.com/20180625/trx/kisspng-unims-borderfest-television-film-univision-marilyn-moore-5b31a0b18ed5e4.4235776815299790575851.jpg" group-title="Usa-Es",USA ES - UNIMAS NEW YORK
+http://ictv19.xyz:8000/rob/123/23098
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIVERSO" tvg-logo="http://www.ictv19.xyz/logo/UNIVERSO.png" group-title="Usa-Es",USA ES - UNIVERSO
+http://ictv19.xyz:8000/rob/123/23100
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIVISION ARIZONA" tvg-logo="https://i.pinimg.com/280x280_RS/07/ed/ef/07edeff63c8d61ffef51c90c0b745554.jpg" group-title="Usa-Es",USA ES - UNIVISION ARIZONA
+http://ictv19.xyz:8000/rob/123/23102
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIVISION ATLANTA" tvg-logo="https://pbs.twimg.com/profile_images/1149764806360145921/XosfOGUY_400x400.png" group-title="Usa-Es",USA ES - UNIVISION ATLANTA
+http://ictv19.xyz:8000/rob/123/23103
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIVISION AUSTIN" tvg-logo="http://egbi.org/wp-content/uploads/2019/04/UNIVISION-AUSTIN-LOGO-2019.jpg" group-title="Usa-Es",USA ES - UNIVISION AUSTIN
+http://ictv19.xyz:8000/rob/123/23104
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIVISION CHICAGO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/WGBO_Logo.png" group-title="Usa-Es",USA ES - UNIVISION CHICAGO HD
+http://ictv19.xyz:8000/rob/123/23105
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIVISION FHD" tvg-logo="" group-title="Usa-Es",USA ES - UNIVISION FHD
+http://ictv19.xyz:8000/rob/123/22533
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Usa-Es",USA ES - UNIVISION HD
+http://ictv19.xyz:8000/rob/123/23101
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIVISION HOUSTON" tvg-logo="https://static.univision.com/fragments/noticias/home-locales/images/radio-stations/houston/univision-45.png" group-title="Usa-Es",USA ES - UNIVISION HOUSTON
+http://ictv19.xyz:8000/rob/123/23107
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIVISION LOS ANGELES" tvg-logo="https://s3.amazonaws.com/cision-wp-files/us/wp-content/uploads/2016/02/17084230/KMEX-TV-FeaturedImage.png" group-title="Usa-Es",USA ES - UNIVISION LOS ANGELES
+http://ictv19.xyz:8000/rob/123/23108
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIVISION MIAMI" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/miami/univision-23-fl.png" group-title="Usa-Es",USA ES - UNIVISION MIAMI
+http://ictv19.xyz:8000/rob/123/23109
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIVISION MIAMI FHD" tvg-logo="http://www.ictv19.xyz/logo/UNIVISION-HD.png" group-title="Usa-Es",USA ES - UNIVISION MIAMI FHD
+http://ictv19.xyz:8000/rob/123/22534
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIVISION NEW YORK" tvg-logo="https://static.univision.com/fragments/noticias/home-locales/images/radio-stations/new-york/univision-41-ny.png" group-title="Usa-Es",USA ES - UNIVISION NEW YORK
+http://ictv19.xyz:8000/rob/123/23110
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIVISION SAN FRANCISCO" tvg-logo="https://static.univision.com/fragments/noticias/home-locales/images/radio-stations/san-francisco/univision-14-ca.png" group-title="Usa-Es",USA ES - UNIVISION SAN FRANCISCO
+http://ictv19.xyz:8000/rob/123/23111
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - UNIVISION DALLAS " tvg-logo="" group-title="Usa-Es",USA ES - UNIVISION DALLAS 
+http://ictv19.xyz:8000/rob/123/23106
+#EXTINF:-1 tvg-id="" tvg-name="USA ES - Telemundo 52 Los Angeles HD" tvg-logo="http://www.jomyson.com/logo/TelemundoLosAngeles.png" group-title="Usa-Es",USA ES - Telemundo 52 Los Angeles HD
+http://ictv19.xyz:8000/rob/123/807
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox YES " tvg-logo="" group-title="Sports_Channels",USA - Fox YES 
+http://ictv19.xyz:8000/rob/123/22612
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX Deportes" tvg-logo="" group-title="Sports_Channels",USA - FOX Deportes
+http://ictv19.xyz:8000/rob/123/22594
+#EXTINF:-1 tvg-id="" tvg-name="USA - STADIUM HD " tvg-logo="http://www.ictv19.xyz/logo/stadium.jpeg" group-title="Sports_Channels",USA - STADIUM HD 
+http://ictv19.xyz:8000/rob/123/23079
+#EXTINF:-1 tvg-id="" tvg-name="USA - BEIN SPORTS LA LIGA HD " tvg-logo="http://www.ictv19.xyz/logo/beIN-Sports-LaLiga.jpg" group-title="Sports_Channels",USA - BEIN SPORTS LA LIGA HD 
+http://ictv19.xyz:8000/rob/123/170
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL NETWORK HD" tvg-logo="http://www.jomyson.com/logo/NFLNetwork.jpg" group-title="Sports_Channels",USA - NFL NETWORK HD
+http://ictv19.xyz:8000/rob/123/592
+#EXTINF:-1 tvg-id="" tvg-name="USA - CBS Sports Network" tvg-logo="https://bmxlivetv.files.wordpress.com/2017/01/cbs_sports_logo.png?w=1400" group-title="Sports_Channels",USA - CBS Sports Network
+http://ictv19.xyz:8000/rob/123/22585
+#EXTINF:-1 tvg-id="" tvg-name="USA - ESPN" tvg-logo="" group-title="Sports_Channels",USA - ESPN
+http://ictv19.xyz:8000/rob/123/22586
+#EXTINF:-1 tvg-id="" tvg-name="USA - ESPN U" tvg-logo="" group-title="Sports_Channels",USA - ESPN U
+http://ictv19.xyz:8000/rob/123/22593
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Collage Sports Central" tvg-logo="" group-title="Sports_Channels",USA - Fox Collage Sports Central
+http://ictv19.xyz:8000/rob/123/22613
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS ARIZONA" tvg-logo="http://www.ictv19.xyz/logo/FOXSportsArizona.jpg" group-title="Sports_Channels",USA - FOX SPORTS ARIZONA
+http://ictv19.xyz:8000/rob/123/22986
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS ARIZONA 2" tvg-logo="http://www.ictv19.xyz/logo/FOXSportsArizona.jpg" group-title="Sports_Channels",USA - FOX SPORTS ARIZONA 2
+http://ictv19.xyz:8000/rob/123/22987
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS FLORIDA" tvg-logo="http://www.ictv19.xyz/logo/FOXSportsFlorida.png" group-title="Sports_Channels",USA - FOX SPORTS FLORIDA
+http://ictv19.xyz:8000/rob/123/22988
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS MIDWEST" tvg-logo="http://www.ictv19.xyz/logo/FOXSportsMidwest.png" group-title="Sports_Channels",USA - FOX SPORTS MIDWEST
+http://ictv19.xyz:8000/rob/123/22990
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS NEW ORLEANS" tvg-logo="http://www.ictv19.xyz/logo/FOXSportsNewOrleans.png" group-title="Sports_Channels",USA - FOX SPORTS NEW ORLEANS
+http://ictv19.xyz:8000/rob/123/22991
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS NORTH" tvg-logo="http://www.ictv19.xyz/logo/FOXSportsNorth.jpg" group-title="Sports_Channels",USA - FOX SPORTS NORTH
+http://ictv19.xyz:8000/rob/123/22992
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS OHIO" tvg-logo="http://www.ictv19.xyz/logo/FOXSportsOhio.jpg" group-title="Sports_Channels",USA - FOX SPORTS OHIO
+http://ictv19.xyz:8000/rob/123/22994
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS OKLAHOMA" tvg-logo="http://www.ictv19.xyz/logo/FOXSportsOklahoma.png" group-title="Sports_Channels",USA - FOX SPORTS OKLAHOMA
+http://ictv19.xyz:8000/rob/123/22995
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Sports Prime Ticket" tvg-logo="http://kickerarenacross.com/wp-content/uploads/2019/08/fs2-1.png" group-title="Sports_Channels",USA - Fox Sports Prime Ticket
+http://ictv19.xyz:8000/rob/123/22603
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS SAN DIEGO" tvg-logo="http://www.ictv19.xyz/logo/FOXSanDiego.png" group-title="Sports_Channels",USA - FOX SPORTS SAN DIEGO
+http://ictv19.xyz:8000/rob/123/22983
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS SOCCER" tvg-logo="https://www.nicepng.com/png/detail/52-524234_fox-sports-1-png-fox-soccer-fox-soccer.png" group-title="Sports_Channels",USA - FOX SPORTS SOCCER
+http://ictv19.xyz:8000/rob/123/22982
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS SOUTH" tvg-logo="http://www.ictv19.xyz/logo/FOXSportsSouthest.jpg" group-title="Sports_Channels",USA - FOX SPORTS SOUTH
+http://ictv19.xyz:8000/rob/123/22996
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS SOUTHEAST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Fox_Sports_Southeast_2015_logo.jpeg" group-title="Sports_Channels",USA - FOX SPORTS SOUTHEAST
+http://ictv19.xyz:8000/rob/123/22997
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS NETBASE" tvg-logo="http://www.logotypes101.com/logos/546/0DD32C44EE55F1EA5FE7162C2D5407E7/Fox_Sports_Net.png" group-title="Sports_Channels",USA - FOX SPORTS NETBASE
+http://ictv19.xyz:8000/rob/123/23000
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS SUN" tvg-logo="http://www.ictv19.xyz/logo/FOXSportsSUN.jpg" group-title="Sports_Channels",USA - FOX SPORTS SUN
+http://ictv19.xyz:8000/rob/123/22998
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS WEST" tvg-logo="http://www.ictv19.xyz/logo/FOXSportsWest.png" group-title="Sports_Channels",USA - FOX SPORTS WEST
+http://ictv19.xyz:8000/rob/123/22984
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS WISCONSIN" tvg-logo="http://www.ictv19.xyz/logo/foxsports.png" group-title="Sports_Channels",USA - FOX SPORTS WISCONSIN
+http://ictv19.xyz:8000/rob/123/23001
+#EXTINF:-1 tvg-id="" tvg-name="USA - FS 2" tvg-logo="http://kickerarenacross.com/wp-content/uploads/2019/08/fs2-1.png" group-title="Sports_Channels",USA - FS 2
+http://ictv19.xyz:8000/rob/123/22596
+#EXTINF:-1 tvg-id="" tvg-name="USA - FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports_Channels",USA - FS1
+http://ictv19.xyz:8000/rob/123/22972
+#EXTINF:-1 tvg-id="" tvg-name="USA - FS2" tvg-logo="http://i.imgur.com/tqLjmhC.png" group-title="Sports_Channels",USA - FS2
+http://ictv19.xyz:8000/rob/123/22973
+#EXTINF:-1 tvg-id="" tvg-name="USA - GOL TV" tvg-logo="http://www.ictv19.xyz/logo/golTv.jpg" group-title="Sports_Channels",USA - GOL TV
+http://ictv19.xyz:8000/rob/123/23011
+#EXTINF:-1 tvg-id="" tvg-name="USA - GOL TV (ENG)" tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5a09aba016210324c367fe89/logo.png" group-title="Sports_Channels",USA - GOL TV (ENG)
+http://ictv19.xyz:8000/rob/123/23012
+#EXTINF:-1 tvg-id="" tvg-name="USA - GOLF CHANNEL" tvg-logo="http://www.ictv19.xyz/logo/TheGolfChannel.png" group-title="Sports_Channels",USA - GOLF CHANNEL
+http://ictv19.xyz:8000/rob/123/23010
+#EXTINF:-1 tvg-id="" tvg-name="USA - MSG 2" tvg-logo="https://www.sccpre.cat/mypng/detail/109-1093126_metal-gear-solid-2-logo.png" group-title="Sports_Channels",USA - MSG 2
+http://ictv19.xyz:8000/rob/123/23025
+#EXTINF:-1 tvg-id="" tvg-name="USA - MSG PLUS " tvg-logo="http://www.ictv19.xyz/logo/msgplus.jpg" group-title="Sports_Channels",USA - MSG PLUS 
+http://ictv19.xyz:8000/rob/123/23026
+#EXTINF:-1 tvg-id="" tvg-name="USA - MSG PLUS 2" tvg-logo="http://www.ictv19.xyz/logo/msgplus.jpg" group-title="Sports_Channels",USA - MSG PLUS 2
+http://ictv19.xyz:8000/rob/123/23027
+#EXTINF:-1 tvg-id="" tvg-name="USA - NBA TV HD" tvg-logo="http://www.jomyson.com/logo/NBA.png" group-title="Sports_Channels",USA - NBA TV HD
+http://ictv19.xyz:8000/rob/123/9520
+#EXTINF:-1 tvg-id="" tvg-name="USA - NESN" tvg-logo="http://www.ictv19.xyz/logo/NESN.jpg" group-title="Sports_Channels",USA - NESN
+http://ictv19.xyz:8000/rob/123/22631
+#EXTINF:-1 tvg-id="" tvg-name="USA - NESN PLUS HD" tvg-logo="https://nesncom.files.wordpress.com/2014/01/nesnplus-story-logo.png" group-title="Sports_Channels",USA - NESN PLUS HD
+http://ictv19.xyz:8000/rob/123/22633
+#EXTINF:-1 tvg-id="" tvg-name="USA - YES NETWORK HD" tvg-logo="" group-title="Sports_Channels",USA - YES NETWORK HD
+http://ictv19.xyz:8000/rob/123/23117
+#EXTINF:-1 tvg-id="" tvg-name="USA: Olympic Channel HD" tvg-logo="http://www.jomyson.com/logo/OlympicChannel.jpg" group-title="Sports_Channels",USA: Olympic Channel HD
+http://ictv19.xyz:8000/rob/123/7794
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Arizona HD" tvg-logo="http://www.jomyson.com/logo/PAC12.png" group-title="Sports_Channels",USA: PAC 12 Arizona HD
+http://ictv19.xyz:8000/rob/123/7751
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Bay Area HD" tvg-logo="http://www.jomyson.com/logo/PAC12BayArea.png" group-title="Sports_Channels",USA: PAC 12 Bay Area HD
+http://ictv19.xyz:8000/rob/123/7750
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Los  Angeles HD" tvg-logo="http://www.jomyson.com/logo/PAC12Los%c3%81ngeles.png" group-title="Sports_Channels",USA: PAC 12 Los  Angeles HD
+http://ictv19.xyz:8000/rob/123/7749
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Mountain HD" tvg-logo="http://www.jomyson.com/logo/PAC12mountain.jpeg" group-title="Sports_Channels",USA: PAC 12 Mountain HD
+http://ictv19.xyz:8000/rob/123/7748
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Networks HD" tvg-logo="http://www.jomyson.com/logo/PAC12%20Network.png" group-title="Sports_Channels",USA: PAC 12 Networks HD
+http://ictv19.xyz:8000/rob/123/7747
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS ALT" tvg-logo="http://www.ictv19.xyz/logo/foxsports.png" group-title="Sports_Channels",USA - FOX SPORTS ALT
+http://ictv19.xyz:8000/rob/123/22993
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS ALT 3" tvg-logo="http://www.ictv19.xyz/logo/foxsport3.JPG" group-title="Sports_Channels",USA - FOX SPORTS ALT 3
+http://ictv19.xyz:8000/rob/123/22999
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX SPORTS ALT 2" tvg-logo="http://www.ictv19.xyz/logo/foxsports.png" group-title="Sports_Channels",USA - FOX SPORTS ALT 2
+http://ictv19.xyz:8000/rob/123/23002
+#EXTINF:-1 tvg-id="" tvg-name="USA - MLB Strike One" tvg-logo="" group-title="Sports_Channels",USA - MLB Strike One
+http://ictv19.xyz:8000/rob/123/22621
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Collage Sports Atlantic" tvg-logo="" group-title="Sports_Channels",USA - Fox Collage Sports Atlantic
+http://ictv19.xyz:8000/rob/123/22614
+#EXTINF:-1 tvg-id="" tvg-name="USA - RedZone" tvg-logo="" group-title="Sports_Channels",USA - RedZone
+http://ictv19.xyz:8000/rob/123/23072
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Deportes HD" tvg-logo="http://www.jomyson.com/logo/FoxDeportes.png" group-title="Sports_Channels",USA - Fox Deportes HD
+http://ictv19.xyz:8000/rob/123/8767
+#EXTINF:-1 tvg-id="" tvg-name="USA - Bein Sports" tvg-logo="" group-title="Sports_Channels",USA - Bein Sports
+http://ictv19.xyz:8000/rob/123/22576
+#EXTINF:-1 tvg-id="" tvg-name="USA - Bein Sports En Español" tvg-logo="" group-title="Sports_Channels",USA - Bein Sports En Español
+http://ictv19.xyz:8000/rob/123/22577
+#EXTINF:-1 tvg-id="" tvg-name="USA - ESPN 2" tvg-logo="" group-title="Sports_Channels",USA - ESPN 2
+http://ictv19.xyz:8000/rob/123/22587
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Soccer" tvg-logo="" group-title="Sports_Channels",USA - Fox Soccer
+http://ictv19.xyz:8000/rob/123/22616
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Sports Arizona" tvg-logo="" group-title="Sports_Channels",USA - Fox Sports Arizona
+http://ictv19.xyz:8000/rob/123/22598
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Sports Bases Loaded" tvg-logo="" group-title="Sports_Channels",USA - Fox Sports Bases Loaded
+http://ictv19.xyz:8000/rob/123/22597
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Sports Detroit" tvg-logo="" group-title="Sports_Channels",USA - Fox Sports Detroit
+http://ictv19.xyz:8000/rob/123/22599
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Sports Florida" tvg-logo="" group-title="Sports_Channels",USA - Fox Sports Florida
+http://ictv19.xyz:8000/rob/123/22600
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Sports Midwest" tvg-logo="" group-title="Sports_Channels",USA - Fox Sports Midwest
+http://ictv19.xyz:8000/rob/123/22601
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Sports North" tvg-logo="" group-title="Sports_Channels",USA - Fox Sports North
+http://ictv19.xyz:8000/rob/123/22602
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Sports Ohio" tvg-logo="" group-title="Sports_Channels",USA - Fox Sports Ohio
+http://ictv19.xyz:8000/rob/123/22604
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Sports San Diego" tvg-logo="" group-title="Sports_Channels",USA - Fox Sports San Diego
+http://ictv19.xyz:8000/rob/123/22606
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Sports South" tvg-logo="" group-title="Sports_Channels",USA - Fox Sports South
+http://ictv19.xyz:8000/rob/123/22607
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Sports Sun" tvg-logo="" group-title="Sports_Channels",USA - Fox Sports Sun
+http://ictv19.xyz:8000/rob/123/22608
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Sports West" tvg-logo="" group-title="Sports_Channels",USA - Fox Sports West
+http://ictv19.xyz:8000/rob/123/22609
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Sports Wisconsin" tvg-logo="" group-title="Sports_Channels",USA - Fox Sports Wisconsin
+http://ictv19.xyz:8000/rob/123/22611
+#EXTINF:-1 tvg-id="" tvg-name="USA - Gnix Sports TV" tvg-logo="" group-title="Sports_Channels",USA - Gnix Sports TV
+http://ictv19.xyz:8000/rob/123/22617
+#EXTINF:-1 tvg-id="" tvg-name="USA - Longhorn Network" tvg-logo="" group-title="Sports_Channels",USA - Longhorn Network
+http://ictv19.xyz:8000/rob/123/22618
+#EXTINF:-1 tvg-id="" tvg-name="USA - NBC Sports NorthWest" tvg-logo="" group-title="Sports_Channels",USA - NBC Sports NorthWest
+http://ictv19.xyz:8000/rob/123/22629
+#EXTINF:-1 tvg-id="" tvg-name="USA - The Golf Channel" tvg-logo="" group-title="Sports_Channels",USA - The Golf Channel
+http://ictv19.xyz:8000/rob/123/22638
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Sports Time Ohio" tvg-logo="" group-title="Sports_Channels",USA - Fox Sports Time Ohio
+http://ictv19.xyz:8000/rob/123/22605
+#EXTINF:-1 tvg-id="" tvg-name="USA - LA LIGA TV " tvg-logo="" group-title="Sports_Channels",USA - LA LIGA TV 
+http://ictv19.xyz:8000/rob/123/23541
+#EXTINF:-1 tvg-id="" tvg-name="USA - BOX NATION" tvg-logo="http://www.jomyson.com/logo/BoxNation.png" group-title="Sports_Channels",USA - BOX NATION
+http://ictv19.xyz:8000/rob/123/369
+#EXTINF:-1 tvg-id="" tvg-name="USA - STADIUM 3 HD " tvg-logo="http://www.ictv19.xyz/logo/stadium.jpeg" group-title="Sports_Channels",USA - STADIUM 3 HD 
+http://ictv19.xyz:8000/rob/123/23082
+#EXTINF:-1 tvg-id="" tvg-name="USA - STADIUM 2 HD" tvg-logo="data:image/jpeg;base64,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" group-title="Sports_Channels",USA - STADIUM 2 HD
+http://ictv19.xyz:8000/rob/123/23081
+#EXTINF:-1 tvg-id="" tvg-name="USA - STADIUM 1 HD" tvg-logo="http://www.ictv19.xyz/logo/stadium.jpeg" group-title="Sports_Channels",USA - STADIUM 1 HD
+http://ictv19.xyz:8000/rob/123/23080
+#EXTINF:-1 tvg-id="" tvg-name="USA - SNY HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_Sony_HD_logo.svg/1280px-Canal_Sony_HD_logo.svg.png" group-title="Sports_Channels",USA - SNY HD 
+http://ictv19.xyz:8000/rob/123/23076
+#EXTINF:-1 tvg-id="" tvg-name="USA - MOTORTREND " tvg-logo="http://allvectorlogo.com/img/2016/12/motor-trend-logo.png" group-title="Sports_Channels",USA - MOTORTREND 
+http://ictv19.xyz:8000/rob/123/23024
+#EXTINF:-1 tvg-id="" tvg-name="USA - GINX ESPORTS TV" tvg-logo="http://www.ictv19.xyz/logo/GinxEsportstv.png" group-title="Sports_Channels",USA - GINX ESPORTS TV
+http://ictv19.xyz:8000/rob/123/23009
+#EXTINF:-1 tvg-id="" tvg-name="USA - FUBO SPORTS NETWORK" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0OTkxMTcyNDI5ODE3NTM3/fubotv-logo-2-orange-background--16x9.png" group-title="Sports_Channels",USA - FUBO SPORTS NETWORK
+http://ictv19.xyz:8000/rob/123/23003
+#EXTINF:-1 tvg-id="" tvg-name="USA - FIGHT NETWORK " tvg-logo="http://www.ictv19.xyz/logo/FightNetwork.png" group-title="Sports_Channels",USA - FIGHT NETWORK 
+http://ictv19.xyz:8000/rob/123/22970
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX COLLEGE SPORTS PACIFIC " tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Fox_Sports_College.png" group-title="Sports_Channels",USA - FOX COLLEGE SPORTS PACIFIC 
+http://ictv19.xyz:8000/rob/123/22969
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX COLLEGE SPORTS CENTRAL " tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Fox_Sports_College.png" group-title="Sports_Channels",USA - FOX COLLEGE SPORTS CENTRAL 
+http://ictv19.xyz:8000/rob/123/22968
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX COLLEGE SPORTS ATLANTIC " tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Fox_Sports_College.png" group-title="Sports_Channels",USA - FOX COLLEGE SPORTS ATLANTIC 
+http://ictv19.xyz:8000/rob/123/22967
+#EXTINF:-1 tvg-id="" tvg-name="USA - FANTASY FOOTBALLERS" tvg-logo="https://miro.medium.com/max/627/1*0PaocX0AxoXP5y9zgHtkEQ.png" group-title="Sports_Channels",USA - FANTASY FOOTBALLERS
+http://ictv19.xyz:8000/rob/123/22966
+#EXTINF:-1 tvg-id="" tvg-name="USA - ELEVEN SPORTS " tvg-logo="http://www.ictv19.xyz/logo/ELEVENSPORTS.png" group-title="Sports_Channels",USA - ELEVEN SPORTS 
+http://ictv19.xyz:8000/rob/123/22964
+#EXTINF:-1 tvg-id="" tvg-name="USA - BIG TEN NETWORK USA " tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports_Channels",USA - BIG TEN NETWORK USA 
+http://ictv19.xyz:8000/rob/123/22950
+#EXTINF:-1 tvg-id="" tvg-name="USA - Fox Collage Sports Pacific " tvg-logo="" group-title="Sports_Channels",USA - Fox Collage Sports Pacific 
+http://ictv19.xyz:8000/rob/123/22615
+#EXTINF:-1 tvg-id="" tvg-name="USA - Espn Deportes " tvg-logo="http://www.ictv19.xyz/logo/EspnDeportes.jpg" group-title="Sports_Channels",USA - Espn Deportes 
+http://ictv19.xyz:8000/rob/123/22591
+#EXTINF:-1 tvg-id="" tvg-name="USA - BEIN SPORTS ENGLISH " tvg-logo="http://www.jomyson.com/logo/beinSport.jpg" group-title="Sports_Channels",USA - BEIN SPORTS ENGLISH 
+http://ictv19.xyz:8000/rob/123/7833
+#EXTINF:-1 tvg-id="" tvg-name="USA - Eleven Sports Network" tvg-logo="http://www.jomyson.com/logo/ELEVENSPORTNETWORK.png" group-title="Sports_Channels",USA - Eleven Sports Network
+http://ictv19.xyz:8000/rob/123/8776
+#EXTINF:-1 tvg-id="" tvg-name="USA - FUSE" tvg-logo="http://www.ictv19.xyz/logo/FUSE.png" group-title="Movies_Channels",USA - FUSE
+http://ictv19.xyz:8000/rob/123/23004
+#EXTINF:-1 tvg-id="" tvg-name="USA - FXM HD 1" tvg-logo="http://www.ictv19.xyz/logo/FXM.png" group-title="Movies_Channels",USA - FXM HD 1
+http://ictv19.xyz:8000/rob/123/23005
+#EXTINF:-1 tvg-id="" tvg-name="USA - FXX" tvg-logo="http://www.ictv19.xyz/logo/FXX.png" group-title="Movies_Channels",USA - FXX
+http://ictv19.xyz:8000/rob/123/23006
+#EXTINF:-1 tvg-id="" tvg-name="USA - HALLMARK" tvg-logo="http://www.ictv19.xyz/logo/HallmarkMovies.jpg" group-title="Movies_Channels",USA - HALLMARK
+http://ictv19.xyz:8000/rob/123/23013
+#EXTINF:-1 tvg-id="" tvg-name="USA - HALLMARK MOVIES & MYSTERIES" tvg-logo="http://www.ictv19.xyz/logo/HallmarkMovies&Mysteries.png" group-title="Movies_Channels",USA - HALLMARK MOVIES & MYSTERIES
+http://ictv19.xyz:8000/rob/123/23015
+#EXTINF:-1 tvg-id="" tvg-name="USA - SONY HD" tvg-logo="http://www.ictv19.xyz/logo/CineSony.jpg" group-title="Movies_Channels",USA - SONY HD
+http://ictv19.xyz:8000/rob/123/23077
+#EXTINF:-1 tvg-id="" tvg-name="USA - Syfy HD" tvg-logo="http://www.ictv19.xyz/logo/SYFY-HD.png" group-title="Movies_Channels",USA - Syfy HD
+http://ictv19.xyz:8000/rob/123/23083
+#EXTINF:-1 tvg-id="" tvg-name="USA - Syfy Pacific" tvg-logo="http://www.ictv19.xyz/logo/Syfy.png" group-title="Movies_Channels",USA - Syfy Pacific
+http://ictv19.xyz:8000/rob/123/22783
+#EXTINF:-1 tvg-id="" tvg-name="USA - Travel" tvg-logo="http://www.ictv19.xyz/logo/TRAVEL.png" group-title="Movies_Channels",USA - Travel
+http://ictv19.xyz:8000/rob/123/23089
+#EXTINF:-1 tvg-id="" tvg-name="USA - We TV" tvg-logo="http://www.ictv19.xyz/logo/WETV.png" group-title="Movies_Channels",USA - We TV
+http://ictv19.xyz:8000/rob/123/22788
+#EXTINF:-1 tvg-id="" tvg-name="USA - Usa Network Pacific" tvg-logo="http://www.ictv19.xyz/logo/UsaNetwork...png" group-title="Movies_Channels",USA - Usa Network Pacific
+http://ictv19.xyz:8000/rob/123/22787
+#EXTINF:-1 tvg-id="" tvg-name="USA - Sundance" tvg-logo="http://www.ictv19.xyz/logo/SundanceTV.png" group-title="Movies_Channels",USA - Sundance
+http://ictv19.xyz:8000/rob/123/22781
+#EXTINF:-1 tvg-id="" tvg-name="USA - HBO Pacific" tvg-logo="http://www.ictv19.xyz/logo/HBO.png" group-title="Movies_Channels",USA - HBO Pacific
+http://ictv19.xyz:8000/rob/123/22775
+#EXTINF:-1 tvg-id="" tvg-name="USA - FX" tvg-logo="" group-title="Movies_Channels",USA - FX
+http://ictv19.xyz:8000/rob/123/22768
+#EXTINF:-1 tvg-id="" tvg-name="USA - FXM" tvg-logo="" group-title="Movies_Channels",USA - FXM
+http://ictv19.xyz:8000/rob/123/22769
+#EXTINF:-1 tvg-id="" tvg-name="USA - FXX" tvg-logo="" group-title="Movies_Channels",USA - FXX
+http://ictv19.xyz:8000/rob/123/22770
+#EXTINF:-1 tvg-id="" tvg-name="USA - HBO" tvg-logo="" group-title="Movies_Channels",USA - HBO
+http://ictv19.xyz:8000/rob/123/22774
+#EXTINF:-1 tvg-id="" tvg-name="USA - PARAMOUNT NETWORK" tvg-logo="http://www.ictv19.xyz/logo/paramount-network.jpg" group-title="Movies_Channels",USA - PARAMOUNT NETWORK
+http://ictv19.xyz:8000/rob/123/20913
+#EXTINF:-1 tvg-id="" tvg-name="USA - Syfy" tvg-logo="http://www.ictv19.xyz/logo/Syfy.png" group-title="Movies_Channels",USA - Syfy
+http://ictv19.xyz:8000/rob/123/22782
+#EXTINF:-1 tvg-id="" tvg-name="USA - TBS" tvg-logo="http://www.ictv19.xyz/logo/TBS-VERYFUNNY-HD.png" group-title="Movies_Channels",USA - TBS
+http://ictv19.xyz:8000/rob/123/22784
+#EXTINF:-1 tvg-id="" tvg-name="USA - Cinemax West" tvg-logo="http://www.jomyson.com/logo/cinemaxwest.png" group-title="Movies_Channels",USA - Cinemax West
+http://ictv19.xyz:8000/rob/123/8792
+#EXTINF:-1 tvg-id="" tvg-name="USA - E" tvg-logo="http://www.jomyson.com/logo/E.LOGO.jpg" group-title="Movies_Channels",USA - E
+http://ictv19.xyz:8000/rob/123/8777
+#EXTINF:-1 tvg-id="" tvg-name="USA - Hallmark Movies" tvg-logo="http://www.jomyson.com/logo/HallmarkMovies.jpg" group-title="Movies_Channels",USA - Hallmark Movies
+http://ictv19.xyz:8000/rob/123/8827
+#EXTINF:-1 tvg-id="" tvg-name="USA - Hallmark Movies & Mysteries" tvg-logo="http://www.jomyson.com/logo/HallmarkMovies&Mysteries.png" group-title="Movies_Channels",USA - Hallmark Movies & Mysteries
+http://ictv19.xyz:8000/rob/123/7808
+#EXTINF:-1 tvg-id="" tvg-name="USA - Showtime Eeast" tvg-logo="http://www.jomyson.com/logo/ShowtimeEeast.png" group-title="Movies_Channels",USA - Showtime Eeast
+http://ictv19.xyz:8000/rob/123/8830
+#EXTINF:-1 tvg-id="" tvg-name="USA - Showtime Pacific" tvg-logo="" group-title="Movies_Channels",USA - Showtime Pacific
+http://ictv19.xyz:8000/rob/123/22777
+#EXTINF:-1 tvg-id="" tvg-name="USA - SKY MOVIES COMEDY HD" tvg-logo="http://www.jomyson.com/logo/SKYMOVIESCOMEDY.png" group-title="Movies_Channels",USA - SKY MOVIES COMEDY HD
+http://ictv19.xyz:8000/rob/123/738
+#EXTINF:-1 tvg-id="" tvg-name="USA - Starz edge FHD" tvg-logo="http://www.jomyson.com/logo/starzedge.png" group-title="Movies_Channels",USA - Starz edge FHD
+http://ictv19.xyz:8000/rob/123/728
+#EXTINF:-1 tvg-id="" tvg-name="USA - TCM" tvg-logo="http://www.jomyson.com/logo/TCM-HD.png" group-title="Movies_Channels",USA - TCM
+http://ictv19.xyz:8000/rob/123/8811
+#EXTINF:-1 tvg-id="" tvg-name="USA - TNT Pacific" tvg-logo="http://www.jomyson.com/logo/tnt.png" group-title="Movies_Channels",USA - TNT Pacific
+http://ictv19.xyz:8000/rob/123/8806
+#EXTINF:-1 tvg-id="" tvg-name="USA - Tru tv" tvg-logo="http://www.jomyson.com/logo/trueTV-HD.png" group-title="Movies_Channels",USA - Tru tv
+http://ictv19.xyz:8000/rob/123/8813
+#EXTINF:-1 tvg-id="" tvg-name="USA - SKY MOVIES SELECT FHD" tvg-logo="http://www.jomyson.com/logo/SKYMOVIESSELECT.png" group-title="Movies_Channels",USA - SKY MOVIES SELECT FHD
+http://ictv19.xyz:8000/rob/123/742
+#EXTINF:-1 tvg-id="" tvg-name="USA - Sony Movie Channel" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/261.png" group-title="Movies_Channels",USA - Sony Movie Channel
+http://ictv19.xyz:8000/rob/123/22779
+#EXTINF:-1 tvg-id="" tvg-name="USA - Freeform (2nd option)" tvg-logo="" group-title="Movies_Channels",USA - Freeform (2nd option)
+http://ictv19.xyz:8000/rob/123/22767
+#EXTINF:-1 tvg-id="" tvg-name="USA - Epix Hits" tvg-logo="http://www.ictv19.xyz/logo/EpixHits.jpg" group-title="Movies_Channels",USA - Epix Hits
+http://ictv19.xyz:8000/rob/123/22765
+#EXTINF:-1 tvg-id="" tvg-name="USA - AMC" tvg-logo="" group-title="Movies_Channels",USA - AMC
+http://ictv19.xyz:8000/rob/123/22761
+#EXTINF:-1 tvg-id="" tvg-name="USA - TNT" tvg-logo="http://www.ictv19.xyz/logo/TNT-HD.png" group-title="Movies_Channels",USA - TNT
+http://ictv19.xyz:8000/rob/123/23088
+#EXTINF:-1 tvg-id="" tvg-name="USA - IFC HD" tvg-logo="https://images.amcnetworks.com/ifc.com/wp-content/uploads/2011/11/ifc_logo_share.png" group-title="Movies_Channels",USA - IFC HD
+http://ictv19.xyz:8000/rob/123/23018
+#EXTINF:-1 tvg-id="" tvg-name="USA - HALLMARK DRAMA " tvg-logo="http://www.ictv19.xyz/logo/HallmarkChanneL.jpg" group-title="Movies_Channels",USA - HALLMARK DRAMA 
+http://ictv19.xyz:8000/rob/123/23014
+#EXTINF:-1 tvg-id="" tvg-name="USA - COZI TV " tvg-logo="http://www.ictv19.xyz/logo/CoziTV.png" group-title="Movies_Channels",USA - COZI TV 
+http://ictv19.xyz:8000/rob/123/22959
+#EXTINF:-1 tvg-id="" tvg-name="USA - Cinemax East " tvg-logo="" group-title="Movies_Channels",USA - Cinemax East 
+http://ictv19.xyz:8000/rob/123/22763
+#EXTINF:-1 tvg-id="" tvg-name="USA - Cine Sony HD " tvg-logo="http://www.jomyson.com/logo/CineSony.jpg" group-title="Movies_Channels",USA - Cine Sony HD 
+http://ictv19.xyz:8000/rob/123/7828
+#EXTINF:-1 tvg-id="" tvg-name="EXODO - DIOSES Y REYES (2014) 3D" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI3MDY0NjkxNl5BMl5BanBnXkFtZTgwNTM3NTA0MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="3D",EXODO - DIOSES Y REYES (2014) 3D
+http://ictv19.xyz:8000/movie/rob/123/5419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DE HIELO 5 - CHOQUE DE MUNDOS (2016) 3D" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMTk2ODc1OV5BMl5BanBnXkFtZTgwMzU4MzgzOTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="3D",LA ERA DE HIELO 5 - CHOQUE DE MUNDOS (2016) 3D
+http://ictv19.xyz:8000/movie/rob/123/4631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN: DIAS DEL FUTURO PASADO (2014) 3D" tvg-logo="http://ictv19.xyz:8000/images/pNrIFKNFij76RmDglSeBQIACZvd_small.jpg" group-title="3D",X-MEN: DIAS DEL FUTURO PASADO (2014) 3D
+http://ictv19.xyz:8000/movie/rob/123/5434.mkv
